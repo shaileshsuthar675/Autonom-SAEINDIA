@@ -1,0 +1,66 @@
+Tree 242.573 -1.911 0.010 98.4 2.06 0.86
+Tree 249.269 9.007 0.024 53.9 2.03 1.03
+Tree 238.107 18.835 0.028 98.4 1.54 0.86
+Tree 234.827 25.060 0.135 53.9 1.52 1.03
+Tree 233.083 33.347 0.438 136.7 1.83 0.86
+Tree 241.813 37.216 0.101 87.1 1.37 1.04
+Tree 248.048 38.961 0.060 154.2 1.91 1.44
+Tree 251.507 45.838 0.582 98.6 1.73 1.43
+Tree 257.154 49.618 0.880 127.3 1.21 1.05
+Tree 263.627 45.283 0.254 145.2 1.97 1.04
+Tree 269.480 45.420 0.266 61.7 1.78 1.04
+Tree 275.303 43.318 0.108 111.8 1.37 0.74
+Tree 281.046 43.457 0.111 74.8 2.18 0.89
+Tree 286.318 49.120 0.681 18.2 1.06 1.21
+Tree 290.820 51.000 0.835 107.6 1.41 1.30
+Tree 295.339 50.161 0.695 45.4 2.05 0.72
+Tree 301.231 45.388 0.031 75.5 1.34 1.26
+Tree 303.435 52.012 0.580 24.3 1.73 0.92
+Tree 256.151 32.280 0.001 98.4 2.06 0.86
+Tree 265.012 32.750 0.020 53.9 2.03 1.03
+Tree 276.006 32.126 0.052 136.7 2.44 0.86
+GeoObj 35.330 -26.168 1.724 0.00 0.00 69.32 1.000000 "3D/Buildings/FamilyHouse_00_1.mobj" 1.000000 1.000000
+GeoObj 53.869 -32.376 1.556 0.00 0.00 73.62 1.000000 "3D/Buildings/FamilyHouse_00_1.mobj" 1.000000 1.000000
+GeoObj 51.009 4.580 0.491 0.00 0.00 -19.69 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 53.448 -14.998 0.211 0.00 0.00 307.40 1.000000 "3D/People/Pedestrian_Male_Casual_01_Retroreflective.manim" 1.000000 1.000000
+GeoObj 61.832 -5.401 0.000 0.00 0.00 253.63 1.000000 "3D/People/Skateboarder_Male_Sportive_01_RightFoot.manim" 1.000000 1.000000
+GeoObj 72.633 -1.329 0.442 0.00 0.00 -14.13 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 72.374 -21.009 0.257 0.00 0.00 76.88 1.000000 "3D/People/Skateboarder_Male_Sportive_01_RightFoot.manim" 1.000000 1.000000
+GeoObj 72.752 -19.789 0.000 0.00 0.00 76.90 1.000000 "3D/People/Pedestrian_Male_Casual_01_Retroreflective.manim" 1.000000 1.000000
+GeoObj 70.445 -36.082 1.394 0.00 0.00 -12.80 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 74.505 -23.901 0.416 0.00 0.00 -12.52 1.000000 "3D/Buildings/Kiosk_01_1.mobj" 1.000000 1.000000
+GeoObj 85.952 -30.430 0.804 0.00 0.00 -9.86 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 94.861 6.382 0.817 0.00 0.00 260.74 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 91.165 -21.364 0.000 0.00 0.00 65.91 1.000000 "3D/People/Pedestrian_Male_Casual_01_Retroreflective.manim" 1.000000 1.000000
+GeoObj 95.306 -10.261 0.098 0.00 0.00 261.44 1.000000 "3D/People/Skateboarder_Male_Sportive_01_RightFoot.manim" 1.000000 1.000000
+GeoObj 98.285 -22.801 0.000 0.00 0.00 356.47 1.000000 "3D/People/Pedestrian_Male_Casual_01_Retroreflective.manim" 1.000000 1.000000
+GeoObj 100.445 -30.720 0.409 0.00 0.00 -6.87 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 111.544 -25.539 0.000 0.00 0.00 85.32 1.000000 "3D/People/Pedestrian_Male_Casual_01_Retroreflective.manim" 1.000000 1.000000
+GeoObj 117.571 -7.615 0.241 0.00 0.00 -3.66 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 117.484 -47.341 1.479 0.00 0.00 86.82 1.000000 "3D/Buildings/GasStation_01_FuelPump.mobj" 1.000000 1.000000
+GeoObj 122.907 -26.087 0.000 0.00 0.00 361.70 1.000000 "3D/People/Pedestrian_Male_Casual_01_Retroreflective.manim" 1.000000 1.000000
+GeoObj 123.070 -27.683 0.116 0.00 0.00 87.75 1.000000 "3D/People/Pedestrian_Female_Casual_02_BabyBuggy.manim" 1.000000 1.000000
+GeoObj 134.938 2.117 0.361 0.00 0.00 270.24 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 136.985 -33.262 0.397 0.00 0.00 0.63 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 140.584 -14.916 0.000 0.00 0.00 271.46 1.000000 "3D/People/Pedestrian_Female_Sportive_01.manim" 1.000000 1.000000
+GeoObj 143.322 -25.115 0.000 0.00 0.00 91.98 1.000000 "3D/People/Pedestrian_Female_Sportive_01.manim" 1.000000 1.000000
+GeoObj 151.688 -24.418 0.000 0.00 0.00 93.75 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 154.242 -35.027 0.528 0.00 0.00 94.13 1.000000 "3D/Buildings/OldTown_01_3St_4.mobj" 1.000000 1.000000
+GeoObj 166.942 -33.817 0.606 0.00 0.00 96.76 1.000000 "3D/Buildings/OldTown_01_3St_4.mobj" 1.000000 1.000000
+GeoObj 179.543 -32.026 0.610 0.00 0.00 99.43 1.000000 "3D/Buildings/OldTown_01_3St_4.mobj" 1.000000 1.000000
+GeoObj 192.009 -29.652 0.711 0.00 0.00 102.15 1.000000 "3D/Buildings/OldTown_01_3St_4.mobj" 1.000000 1.000000
+GeoObj 204.305 -26.690 0.785 0.00 0.00 104.95 1.000000 "3D/Buildings/OldTown_01_3St_4.mobj" 1.000000 1.000000
+GeoObj 152.593 -6.405 0.149 0.00 0.00 4.23 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 162.340 -13.385 0.000 0.00 0.00 51.27 1.000000 "3D/People/Pedestrian_Female_Sportive_01.manim" 1.000000 1.000000
+GeoObj 172.607 4.134 0.278 0.00 0.00 279.20 1.000000 "3D/Buildings/FireStation_01.mobj" 1.000000 1.000000
+GeoObj 181.328 -20.994 0.000 0.00 0.00 100.22 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 224.659 -35.185 1.676 0.00 0.00 108.45 1.000000 "3D/Buildings/Mall_02_1.mobj" 1.000000 1.000000
+GeoObj 215.405 20.764 0.488 0.00 0.00 199.85 1.000000 "3D/Buildings/Highrise_CHN_04_25St_1.mobj" 1.000000 1.000000
+GeoObj 233.797 -6.730 0.000 0.00 0.00 110.51 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 241.752 -11.589 0.514 0.00 0.00 20.72 1.000000 "3D/Vegetation/Beech_01_Summer.mobj" 1.000000 1.000000
+GeoObj 259.679 5.599 0.482 0.00 0.00 89.82 1.000000 "3D/Buildings/Mall_01_2.mobj" 1.000000 1.000000
+GeoObj 250.226 17.639 0.000 0.00 0.00 180.58 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 249.336 18.319 0.000 0.00 0.00 180.55 1.000000 "3D/People/Pedestrian_Female_Sportive_01.manim" 1.000000 1.000000
+GeoObj 239.137 20.915 0.000 0.00 0.00 179.51 1.000000 "3D/People/Pedestrian_Female_Sportive_01.manim" 1.000000 1.000000
+GeoObj 250.362 21.335 0.000 0.00 0.00 179.08 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 239.959 28.171 0.000 0.00 0.00 168.00 1.000000 "3D/People/Pedestrian_Female_Sportive_01.manim" 1.000000 1.000000

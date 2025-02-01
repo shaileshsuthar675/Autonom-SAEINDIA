@@ -1,0 +1,105 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-07 20:45:07
+TIME	0.000
+SIM_END			0s	0m
+IDLE	20:45:08
+SIM_START	foggi_condition	2022-01-07 20:45:09
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	16.038
+SIM_END		foggi_condition	16.034s	200.036m
+TIME	54.650
+SIM_START	foggi_condition	2022-01-07 20:51:52
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	14.967
+SIM_END		foggi_condition	14.963s	179.794m
+TIME	53.728
+SIM_START	foggi_condition	2022-01-07 20:58:38
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	12.588
+SIM_END		foggi_condition	12.585s	134.345m
+TIME	16.131
+SIM_START	foggi_condition	2022-01-07 20:59:28
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	4.153
+SIM_END		foggi_condition	4.149s	5.51482m
+TIME	9.585
+SIM_START	foggi_condition	2022-01-07 21:00:28
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	12.151
+SIM_END		foggi_condition	12.147s	125.865m
+TIME	41.194
+SIM_START	foggi_condition	2022-01-07 21:05:33
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	12.111
+SIM_END		foggi_condition	12.107s	125.255m
+TIME	60.587
+SIM_START	foggi_condition	2022-01-07 21:13:53
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	16.005
+SIM_END		foggi_condition	16.002s	200.039m
+TIME	59.776
+SIM_START	foggi_condition	2022-01-07 21:21:31
+TIME	0.000
+SIMULATE	foggi_condition
+
+SIM_END		foggi_condition	1.951s	0.0564011m
+TIME	95.132
+SIM_START	foggi_condition	2022-01-07 21:37:09
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	16.006
+SIM_END		foggi_condition	16.002s	200.039m
+SIM_START	foggi_condition	2022-01-07 21:37:39
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	16.005
+SIM_END		foggi_condition	16.002s	200.039m
+TIME	18.198
+SIM_START	foggi_condition	2022-01-07 21:38:21
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	16.005
+SIM_END		foggi_condition	16.002s	200.039m
+TIME	38.518
+SIM_START	foggi_condition	2022-01-07 21:42:26
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	16.006
+SIM_END		foggi_condition	16.002s	200.039m
+TIME	18.380
+SIM_START	foggi_condition	2022-01-07 21:43:09
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	16.005
+SIM_END		foggi_condition	16.002s	200.039m
+TIME	19.158
+SIM_START	foggi_condition	2022-01-07 21:44:00
+TIME	0.000
+SIMULATE	foggi_condition
+
+TIME	16.006
+SIM_END		foggi_condition	16.002s	200.039m
+TIME	271.445
+SHUTDOWN	CarMaker quick shutdown initiated
+
