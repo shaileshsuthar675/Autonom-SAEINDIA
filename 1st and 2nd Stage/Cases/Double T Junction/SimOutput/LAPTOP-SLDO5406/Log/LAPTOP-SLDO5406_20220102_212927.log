@@ -1,0 +1,218 @@
+APPLICATION	CarMaker 10.1 - Car_Generic #299 (win64-10.1)
+COMPILED	fh@obelix.ipg 2021-07-20 16:42:55
+ 
+FIRST_INIT	(internal default used)	2022-01-02 21:29:27
+TIME	0.000
+SIM_END			0s	0m
+IDLE	21:29:28
+SIM_START	unknown	2022-01-02 21:29:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	22.694
+		LaneChange in maneuver 1 ignored (rv=-2)
+TIME	44.916
+SIM_END		unknown	44.913s	525.897m
+SIM_START	unknown	2022-01-02 21:30:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.111
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	44.648
+SIM_END		unknown	44.645s	522.944m
+TIME	53.030
+SIM_START	unknown	2022-01-02 21:32:38
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.439
+		LaneChange in maneuver 3 ignored (rv=-2)
+TIME	47.134
+SIM_END		unknown	47.131s	528.382m
+SIM_START	unknown	2022-01-02 21:33:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	31.566
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	42.161
+SIM_END		unknown	42.158s	411.268m
+SIM_START	unknown	2022-01-02 21:34:14
+TIME	0.000
+SIMULATE	unknown
+
+TIME	33.438
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	48.776
+SIM_END		unknown	48.772s	524.64m
+SIM_START	unknown	2022-01-02 21:35:10
+TIME	0.000
+SIMULATE	unknown
+
+TIME	33.978
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	40.482
+SIM_END		unknown	40.478s	358.77m
+SIM_START	unknown	2022-01-02 21:35:54
+TIME	0.000
+SIMULATE	unknown
+
+TIME	35.016
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	50.394
+SIM_END		unknown	50.391s	522.509m
+SIM_START	unknown	2022-01-02 21:36:47
+TIME	0.000
+SIMULATE	unknown
+
+TIME	23.971
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+ERROR		Vehicle leaves road at about x=277.262, y=-5.0031 TireNo=0
+SIM_ABORT	unknown	24.492s	256.467m
+TIME	27.166
+SIM_START	unknown	2022-01-02 21:37:40
+TIME	0.000
+SIMULATE	unknown
+
+TIME	21.491
+		LaneChange in maneuver 1 ignored (rv=5)
+TIME	30.393
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	47.562
+SIM_END		unknown	47.558s	525.875m
+SIM_START	unknown	2022-01-02 21:38:37
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.977
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	48.151
+SIM_END		unknown	48.148s	526.007m
+SIM_START	unknown	2022-01-02 21:39:06
+TIME	0.000
+SIMULATE	unknown
+
+TIME	23.691
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+ERROR		Vehicle leaves road at about x=279.361, y=-5.00134 TireNo=0
+SIM_ABORT	unknown	25.468s	257.142m
+TIME	29.261
+SIM_START	unknown	2022-01-02 21:39:59
+TIME	0.000
+SIMULATE	unknown
+
+TIME	31.220
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	37.078
+ERROR		Vehicle leaves road at about x=247.495, y=-34.8117 TireNo=1
+SIM_ABORT	unknown	37.078s	320.632m
+TIME	41.003
+SIM_START	unknown	2022-01-02 21:40:58
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.491
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	48.221
+SIM_END		unknown	48.218s	528.447m
+TIME	52.142
+SIM_START	unknown	2022-01-02 21:42:03
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.111
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	44.648
+SIM_END		unknown	44.645s	522.944m
+TIME	51.882
+SIM_START	unknown	2022-01-02 21:43:40
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.111
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	44.648
+SIM_END		unknown	44.645s	522.944m
+SIM_START	unknown	2022-01-02 21:44:17
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.111
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	48.435
+SIM_END		unknown	48.432s	522.937m
+TIME	51.430
+SIM_START	unknown	2022-01-02 21:45:13
+TIME	0.000
+SIMULATE	unknown
+
+TIME	29.491
+		LaneChange in maneuver 3 ignored (rv=-2)
+TIME	46.947
+SIM_END		unknown	46.944s	528.874m
+SIM_START	unknown	2022-01-02 21:45:45
+TIME	0.000
+SIMULATE	unknown
+
+TIME	29.491
+		LaneChange in maneuver 3 ignored (rv=-2)
+TIME	46.947
+SIM_END		unknown	46.944s	528.874m
+SIM_START	unknown	2022-01-02 21:46:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	35.491
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	49.423
+SIM_END		unknown	49.42s	525.272m
+SIM_START	unknown	2022-01-02 21:47:08
+TIME	0.000
+SIMULATE	unknown
+
+TIME	35.491
+		LaneChange in maneuver 3 ignored (rv=5)
+TIME	49.035
+SIM_END		unknown	49.031s	517.816m
+SIM_START	unknown	2022-01-02 21:47:35
+TIME	0.000
+SIMULATE	unknown
+
+TIME	46.419
+SIM_END		unknown	46.416s	525.272m
+TIME	48.850
+SIM_START	unknown	2022-01-02 21:48:25
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.818
+SIM_END		unknown	44.815s	523.804m
+TIME	46.913
+SIM_START	unknown	2022-01-02 21:49:11
+TIME	0.000
+SIMULATE	unknown
+
+TIME	43.891
+SIM_END		unknown	43.887s	523.796m
+SIM_START	unknown	2022-01-02 21:49:51
+TIME	0.000
+SIMULATE	unknown
+
+TIME	23.493
+SIM_END		unknown	23.49s	252.667m
+SIM_START	unknown	2022-01-02 21:50:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	24.494
+SIM_END		unknown	24.49s	255.556m
+SIM_START	unknown	2022-01-02 21:50:48
+TIME	0.000
+SIMULATE	unknown
+
+TIME	23.993
+SIM_END		unknown	23.99s	254.159m
+TIME	31.935
+SHUTDOWN	CarMaker quick shutdown initiated
+

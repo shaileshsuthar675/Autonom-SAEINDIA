@@ -1,0 +1,23 @@
+APPLICATION	CarMaker 10.1 - Car_Generic #299 (win64-10.1)
+COMPILED	fh@obelix.ipg 2021-07-20 16:42:55
+ 
+FIRST_INIT	(internal default used)	2021-12-31 19:30:15
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:30:15
+SIM_START	Examples/BasicFunctions/Driver/HandbrakeUTurn	2021-12-31 19:30:16
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/HandbrakeUTurn
+
+TIME	51.308
+SIM_END		Examples/BasicFunctions/Driver/HandbrakeUTurn	51.305s	622.516m
+TIME	55.824
+SIM_START	Examples/BasicFunctions/Road/Expressway/ExitAndEnter	2021-12-31 19:31:54
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Road/Expressway/ExitAndEnter
+
+TIME	169.409
+SIM_END		Examples/BasicFunctions/Road/Expressway/ExitAndEnter	169.406s	3500.06m
+TIME	374.711
+SHUTDOWN	CarMaker quick shutdown initiated
+

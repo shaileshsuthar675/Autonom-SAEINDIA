@@ -1,0 +1,28 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-04 22:20:57
+TIME	0.000
+SIM_END			0s	0m
+IDLE	22:20:58
+SIM_START	unknown	2022-01-04 22:21:00
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.903
+SIM_END		unknown	16.9s	191.266m
+SIM_START	unknown	2022-01-04 22:21:30
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.904
+SIM_END		unknown	16.9s	191.266m
+SIM_START	unknown	2022-01-04 22:22:06
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.904
+SIM_END		unknown	16.9s	191.266m
+TIME	22.021
+SHUTDOWN	CarMaker quick shutdown initiated
+

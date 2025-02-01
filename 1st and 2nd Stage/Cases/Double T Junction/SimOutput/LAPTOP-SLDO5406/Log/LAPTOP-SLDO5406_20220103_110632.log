@@ -1,0 +1,15 @@
+APPLICATION	CarMaker 10.1 - Car_Generic #299 (win64-10.1)
+COMPILED	fh@obelix.ipg 2021-07-20 16:42:55
+ 
+FIRST_INIT	(internal default used)	2022-01-03 11:06:32
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:06:32
+SIM_START	Blocked T	2022-01-03 11:06:33
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	20.985
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	43.573
+SIM_END		Blocked T	43.57s	532.381m

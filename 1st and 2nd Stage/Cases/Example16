@@ -1,0 +1,493 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-TestRun 10
+FileCreator = CarMaker 10.2
+Description:
+Vehicle = Demo_Tesla_SP
+Trailer =
+Tire.0 =
+Tire.1 =
+Tire.2 =
+Tire.3 =
+Snapshot.TimeLimit =
+Snapshot.DistLimit =
+VehicleLoad.0.mass = 0
+VehicleLoad.0.pos = 0 0 0
+VehicleLoad.1.mass = 0
+VehicleLoad.1.pos = 0 0 0
+VehicleLoad.2.mass = 0
+VehicleLoad.2.pos = 0 0 0
+VehicleLoad.3.mass = 0
+VehicleLoad.3.pos = 0 0 0
+TrailerLoad.0.mass = 0
+TrailerLoad.0.pos = 0 0 0
+TrailerLoad.1.mass = 0
+TrailerLoad.1.pos = 0 0 0
+TrailerLoad.2.mass = 0
+TrailerLoad.2.pos = 0 0 0
+DrivMan.Cmds:
+	Qu::TD=0;
+	Qu::TD2=0;
+	TD = (Traffic.T00.sRoad - Car.Road.sRoad)
+	TD2 = (Car.Road.sRoad - Traffic.T00.sRoad)
+DrivMan.Init.Velocity = 80
+DrivMan.Init.GearNo = 5
+DrivMan.Init.SteerAng = 0
+DrivMan.Init.LaneOffset = 0
+DrivMan.Init.OperatorActive = 1
+DrivMan.Init.OperatorState = drive
+DrivMan.VhclOperator.Kind = IPGOperator 1
+DrivMan.nDMan = 4
+DrivMan.0.Info = cruise
+DrivMan.0.EndCondition = TD<=35
+DrivMan.0.LongDyn = VelControl 80 0.0 1.0 0.0 1 0.0
+DrivMan.0.LatDyn = Driver 0
+DrivMan.1.Info = overtake
+DrivMan.1.DistLimit = 100
+DrivMan.1.EndCondition = TD2>=15
+DrivMan.1.LongDyn = VelTransition 90 cubic
+DrivMan.1.LatDyn = LaneChange R0 0 0 cubic
+DrivMan.1.SteerMode = Angle
+DrivMan.2.Info = cruise 2
+DrivMan.2.DistLimit = 29
+DrivMan.2.LongDyn = VelTransition 75 linear
+DrivMan.2.LatDyn = LaneChange L0 0 0 linear
+DrivMan.2.SteerMode = Angle
+DrivMan.3.TimeLimit = 5
+DrivMan.3.LongDyn = VelControl 80 0.0 1.0 0.0 1 0.0
+DrivMan.3.LatDyn = Driver 0
+Traffic.IFF.FName =
+Traffic.IFF.Time.Name =
+Traffic.N = 2
+Traffic.SpeedUnit = kmh
+Traffic.0.ObjectKind = Movable
+Traffic.0.ObjectClass = Truck
+Traffic.0.Name = T00
+Traffic.0.Info = UNNAMED Object 0
+Traffic.0.Movie.Geometry = 3D/Vehicles/MB_SK_1998_6x4.mobj
+Traffic.0.Color = 1.0 0.0 0.0
+Traffic.0.Basics.Dimension = 9.5 2.5 3.2
+Traffic.0.Basics.Offset = 0.5 0.0
+Traffic.0.Basics.Fr12CoM = 5.0
+Traffic.0.Init.Orientation = 0.0 0.0 0.0
+Traffic.0.RCSClass = RCS_Truck
+Traffic.0.DetectMask = 1 1
+Traffic.0.Route = 0 1
+Traffic.0.Init.Road = 50 0.0
+Traffic.0.Init.v = 50
+Traffic.0.FreeMotion = 0
+Traffic.0.Lighting = 0
+Traffic.0.UpdRate = 200
+Traffic.0.Motion.Kind = 4Wheel
+Traffic.0.Motion.mass = 25200
+Traffic.0.Motion.I = 23200  83000  83000
+Traffic.0.Motion.Overhang = 1.35  2.7
+Traffic.0.Motion.Cf = 5.8e5
+Traffic.0.Motion.Cr = 1.4e6
+Traffic.0.Motion.C_roll = 4.2e6
+Traffic.0.Motion.D_roll = 4.2e5
+Traffic.0.Motion.C_pitch = 3.0e7
+Traffic.0.Motion.D_pitch = 3.0e6
+Traffic.0.Motion.SteerCtrl.Ang_max = 40.0
+Traffic.0.Motion.AnimateHitch = 0
+Traffic.0.Man.TreatAtEnd = FreezePos
+Traffic.0.Man.N = 0
+Traffic.1.ObjectKind = Movable
+Traffic.1.ObjectClass = Car
+Traffic.1.Name = T01
+Traffic.1.Info = UNNAMED Object 1
+Traffic.1.Movie.Geometry = 3D/Vehicles/Mazda_CX3_2015.mobj
+Traffic.1.Color = 1.0 0.0 0.0
+Traffic.1.Basics.Dimension = 4.27 1.75 1.32
+Traffic.1.Basics.Offset = 0.22 0.0
+Traffic.1.Basics.Fr12CoM = 2.01
+Traffic.1.Init.Orientation = 0.0 0.0 0.0
+Traffic.1.RCSClass = RCS_Car
+Traffic.1.DetectMask = 1 1
+Traffic.1.Route = 1 1
+Traffic.1.Init.Road = 7 0.0
+Traffic.1.Init.v = 90
+Traffic.1.FreeMotion = 0
+Traffic.1.Lighting = 0
+Traffic.1.UpdRate = 200
+Traffic.1.Motion.Kind = 4Wheel
+Traffic.1.Motion.mass = 1370
+Traffic.1.Motion.I = 560  1740  1920
+Traffic.1.Motion.Overhang = 0.98  0.73
+Traffic.1.Motion.Cf = 1.3e5
+Traffic.1.Motion.Cr = 1.3e5
+Traffic.1.Motion.C_roll = 1.5e5
+Traffic.1.Motion.D_roll = 1.5e4
+Traffic.1.Motion.C_pitch = 2.5e5
+Traffic.1.Motion.D_pitch = 2.5e4
+Traffic.1.Motion.SteerCtrl.Ang_max = 40.0
+Traffic.1.Motion.AnimateHitch = 0
+Traffic.1.Man.TreatAtEnd = FreezePos
+Traffic.1.Man.N = 0
+DrivMan.OW.Active = 0
+DrivMan.OW.Quantities =
+DrivMan.OW.StartGearNo = 1
+DrivMan.OW.StartVelocity =
+DrivMan.OW.GasMax = 0.5
+DrivMan.OW.RefCh = Time
+DrivMan.OW.ConsiderRoadSigns = 0
+DrivMan.OW.sRoute.Offset = 0
+ErrorClass.0.Action = abort
+ErrorClass.0.Save = 0
+ErrorClass.0.WarningLimit = 3 5
+ErrorClass.1.Action = abort
+ErrorClass.1.Save = 0
+ErrorClass.1.WarningLimit = 3 5
+ErrorClass.2.Action = abort
+ErrorClass.2.Save = 0
+ErrorClass.2.WarningLimit = 3 5
+ErrorClass.3.Action = abort
+ErrorClass.3.Save = 0
+ErrorClass.3.WarningLimit = 3 5
+ErrorClass.4.Action = abort
+ErrorClass.4.Save = 0
+ErrorClass.4.WarningLimit = 3 5
+ErrorClass.5.Action = abort
+ErrorClass.5.Save = 0
+ErrorClass.5.WarningLimit = 3 5
+ErrorClass.6.Action = abort
+ErrorClass.6.Save = 0
+ErrorClass.6.WarningLimit = 10 5
+ErrorClass.7.Action = abort
+ErrorClass.7.Save = 0
+ErrorClass.7.WarningLimit = 3 5
+ErrorClass.10.Action = abort
+ErrorClass.10.Save = 0
+ErrorClass.10.WarningLimit = 3 5
+ErrorClass.11.Action = abort
+ErrorClass.11.Save = 0
+ErrorClass.11.WarningLimit = 3 5
+Road.FileIdent = IPGRoad 10.0
+Road.LibVersion = 10.2
+Road.Country = GBR
+Road.nLinks = 3
+Road.nJunctions = 0
+Road.nObjects = 208
+Road.nRoutes = 2
+Road.RoadNetworkLength = 1227.32916584509
+Road.BBox = -237.596059329077 564.403940670923 -222.653661485278 419.346338514723 -11 61
+Road.Route.0.Length = 369.115787821039
+Road.Route.1.Length = 369.115787821039
+Road.RST.Unit = kmh
+Road.RST = 50 100 130 30 70 30 0 -1
+Road.Movie = 0.2 1 0.01 1.5 1.5 1 1
+Road.Movie.TerrainFName = 3D/Terrain/Example_16.obj
+Road.PathMode = 1
+Road.Link.0.ID = 0
+Road.Link.0.Node0 = 0 0 0 39.518
+Road.Link.0.Node1 = 285.31 121.655 0 317.067103216935
+Road.Link.0.RST = Countryroad
+Road.Link.0.RL.ID = 1
+Road.Link.0.Seg.0.ID = 5
+Road.Link.0.Seg.0.Type = PointList
+Road.Link.0.Seg.0.Param = 0.732151937292118 -0.681141351497175 1 0 0 0 0 0
+Road.Link.0.Seg.0.PointList:
+	6 -1 223.517 167.034
+	7 -1 285.31 121.655
+Road.Link.0.LaneSection.0.ID = 8
+Road.Link.0.LaneSection.0.Start = 0
+Road.Link.0.LaneSection.0.LaneL.0.ID = 9
+Road.Link.0.LaneSection.0.LaneL.0 = 0 3.5 3.5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneL.0.ARP = 10 11 12 13 14 15
+Road.Link.0.LaneSection.0.LaneL.1.ID = 20
+Road.Link.0.LaneSection.0.LaneL.1 = 0 1 1 4 0 0 0
+Road.Link.0.LaneSection.0.LaneL.1.ARP = 21 22 23 24 25 26
+Road.Link.0.LaneSection.0.LaneL.2.ID = 28
+Road.Link.0.LaneSection.0.LaneL.2 = 0 0 0 5 0 0 0
+Road.Link.0.LaneSection.0.LaneR.0.ID = 29
+Road.Link.0.LaneSection.0.LaneR.0 = 0 3.5 3.5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneR.0.ARP = 30 31 32 33 34 35
+Road.Link.0.LaneSection.0.LaneR.1.ID = 44
+Road.Link.0.LaneSection.0.LaneR.1 = 0 0 0 4 0 0 0
+Road.Link.0.LaneSection.0.LaneR.1.ARP = 45 46 47 48 49 50
+Road.Link.0.LaneSection.0.LaneR.2.ID = 52
+Road.Link.0.LaneSection.0.LaneR.2 = 0 0 0 5 0 0 0
+Road.Link.0.ElevationProfile.ID = 138
+Road.Link.0.ElevationProfile.Params = 0 0
+Road.Link.0.ElevationProfile:
+	184 -1 0 0 0 20 -999
+	185 -1 369.116 0 0 20 -999
+Road.Link.1.ID = 58
+Road.Link.1.Node0 = 35.537 -30.18 0 42.397
+Road.Link.1.Node1 = 290.212613683887 -9.53815814115143 0 250.734560293378
+Road.Link.1.RST = Countryroad
+Road.Link.1.RL.ID = 59
+Road.Link.1.Seg.0.ID = 63
+Road.Link.1.Seg.0.Type = PointList
+Road.Link.1.Seg.0.Param = 0.703600116967964 -0.710596140858271 1 0 0 0 0 0
+Road.Link.1.Seg.0.PointList:
+	64 -1 246.46 102.766
+	65 -1 269.47 82.313
+Road.Link.1.Seg.1.ID = 2
+Road.Link.1.Seg.1.Type = TurnRight
+Road.Link.1.Seg.1.Param = 88.87 63.982 0 0 0 0 0 0
+Road.Link.1.LaneSection.0.ID = 66
+Road.Link.1.LaneSection.0.Start = 0
+Road.Link.1.LaneSection.0.LaneL.0.ID = 67
+Road.Link.1.LaneSection.0.LaneL.0 = 0 3.5 3.5 0 0 0 0
+Road.Link.1.LaneSection.0.LaneL.0.ARP = 68 69 70 71 72 73
+Road.Link.1.LaneSection.0.LaneL.1.ID = 78
+Road.Link.1.LaneSection.0.LaneL.1 = 0 1 1 4 0 0 0
+Road.Link.1.LaneSection.0.LaneL.1.ARP = 79 80 81 82 83 84
+Road.Link.1.LaneSection.0.LaneL.2.ID = 86
+Road.Link.1.LaneSection.0.LaneL.2 = 0 2.5 2.5 5 0 0 0
+Road.Link.1.LaneSection.0.LaneR.0.ID = 87
+Road.Link.1.LaneSection.0.LaneR.0 = 0 3.5 3.5 0 0 0 0
+Road.Link.1.LaneSection.0.LaneR.0.ARP = 88 89 90 91 92 93
+Road.Link.1.LaneSection.0.LaneR.1.ID = 102
+Road.Link.1.LaneSection.0.LaneR.1 = 0 1 1 4 0 0 0
+Road.Link.1.LaneSection.0.LaneR.1.ARP = 103 104 105 106 107 108
+Road.Link.1.LaneSection.0.LaneR.2.ID = 110
+Road.Link.1.LaneSection.0.LaneR.2 = 0 2.5 2.5 5 0 0 0
+Road.Link.1.ElevationProfile.ID = 60
+Road.Link.1.ElevationProfile.Params = 0 0
+Road.Link.1.ElevationProfile:
+	3 -1 0 0 0 50 -999
+	4 -1 396.532 0 0 50 -999
+Road.Link.2.ID = 17
+Road.Link.2.Node0 = -18 24 50 47.314
+Road.Link.2.Node1 = 343.83 164.057 0 323.909432766058
+Road.Link.2.RST = Countryroad
+Road.Link.2.RL.ID = 18
+Road.Link.2.Seg.0.ID = 40
+Road.Link.2.Seg.0.Type = PointList
+Road.Link.2.Seg.0.Param = 0.808086874008685 -0.589063327711777 1 0 0 0 0 0
+Road.Link.2.Seg.0.PointList:
+	41 -1 84.495 152.477
+	42 -1 164.33 208.066
+	54 -1 265.178 217.871
+	55 -1 343.83 164.057
+Road.Link.2.LaneSection.0.ID = 56
+Road.Link.2.LaneSection.0.Start = 0
+Road.Link.2.LaneSection.0.LaneL.0.ID = 57
+Road.Link.2.LaneSection.0.LaneL.0 = 0 3.5 3.5 0 0 0 0
+Road.Link.2.LaneSection.0.LaneL.0.ARP = 61 62 75 76 95 96
+Road.Link.2.LaneSection.0.LaneL.1.ID = 112
+Road.Link.2.LaneSection.0.LaneL.1 = 0 1 1 4 0 0 0
+Road.Link.2.LaneSection.0.LaneL.1.ARP = 113 114 115 116 117 119
+Road.Link.2.LaneSection.0.LaneL.2.ID = 125
+Road.Link.2.LaneSection.0.LaneL.2 = 0 2.5 2.5 5 0 0 0
+Road.Link.2.LaneSection.0.LaneR.0.ID = 141
+Road.Link.2.LaneSection.0.LaneR.0 = 0 3.5 3.5 0 0 0 0
+Road.Link.2.LaneSection.0.LaneR.0.ARP = 142 157 158 159 160 161
+Road.Link.2.LaneSection.0.LaneR.1.ID = 170
+Road.Link.2.LaneSection.0.LaneR.1 = 0 1 1 4 0 0 0
+Road.Link.2.LaneSection.0.LaneR.1.ARP = 171 172 173 174 175 176
+Road.Link.2.LaneSection.0.LaneR.2.ID = 178
+Road.Link.2.LaneSection.0.LaneR.2 = 0 2.5 2.5 5 0 0 0
+Road.Link.2.ElevationProfile.ID = 37
+Road.Link.2.ElevationProfile.Params = 0 0
+Road.Link.2.ElevationProfile:
+	186 -1 0 0 0 0 -999
+	187 -1 459.947 0 0 0 -999
+Road.LanePath.0 = 16 9 2 10 0.1 0.1
+Road.LanePath.1 = 27 20 0.25 10 0.1 0.1
+Road.LanePath.2 = 36 29 2 10 0.1 0.1
+Road.LanePath.3 = 51 44 0.25 10 0.1 0.1
+Road.LanePath.4 = 74 67 2 10 0.1 0.1
+Road.LanePath.5 = 85 78 0.25 10 0.1 0.1
+Road.LanePath.6 = 94 87 2 10 0.1 0.1
+Road.LanePath.7 = 109 102 0.25 10 0.1 0.1
+Road.LanePath.8 = 97 57 2 10 0.1 0.1
+Road.LanePath.9 = 124 112 0.25 10 0.1 0.1
+Road.LanePath.10 = 162 141 2 10 0.1 0.1
+Road.LanePath.11 = 177 170 0.25 10 0.1 0.1
+Route.0.ID = 120
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 121
+Route.0.DrvPath:
+	16
+Route.1.ID = 122
+Route.1.Name = Route_1
+Route.1.DrvPath.ID = 123
+Route.1.DrvPath:
+	36
+Road.RL.1.RoadTunnel.0.ID = 190 1
+Road.RL.1.RoadTunnel.0 = 84.1 0 238.842 0 5 1 1 0 0 Type1 ""
+Road.RL.1.RoadTunnel.0.Material.0 = Textures/Infrastructure/Concrete_01.jpg 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.1.GeoObject.0.ID = 127 1
+Road.RL.1.GeoObject.0 = 362.995 0 362.995 0 -0.993 100 3 0 0 0 90 1 1 1 0 3D/StreetFurniture/TrafficDrum.mobj
+Road.RL.1.GeoObject.0.SensorBBox = 1 0 0.79 -0.38 0.38 0 1.07
+Road.RL.1.GeoObject.1.ID = 99 1
+Road.RL.1.GeoObject.1 = 363.242 0 365.182 0 0.595 100 3 0 0 0 90 1 1 1 0 3D/StreetFurniture/TrafficDrum.mobj
+Road.RL.1.GeoObject.1.SensorBBox = 1 0 0.79 -0.38 0.38 0 1.07
+Road.RL.1.GeoObject.2.ID = 126 1
+Road.RL.1.GeoObject.2 = 363.431 0 363.431 0 2.196 100 3 0 0 0 90 1 1 1 0 3D/StreetFurniture/TrafficDrum.mobj
+Road.RL.1.GeoObject.2.SensorBBox = 1 0 0.79 -0.38 0.38 0 1.07
+Road.RL.1.GeoObject.3.ID = 191 1
+Road.RL.1.GeoObject.3 = 366.973 0 367.762 0 3.415 100 10 0 0 0 0 1 1 1 0 3D/People/Worker_Male_02.mobj
+Road.RL.1.GeoObject.3.SensorBBox = 1 0 0.78 -0.6 0.6 -0.01 1.57
+Road.RL.1.GeoObject.4.ID = 193 1
+Road.RL.1.GeoObject.4 = 367.504 0 367.504 0 0.718 100 10 0 0 0 0 1 1 1 0 3D/People/Worker_Male_03.mobj
+Road.RL.1.GeoObject.4.SensorBBox = 1 0 0.83 -0.47 0.3 0 1.83
+Road.RL.1.GeoObject.5.ID = 192 1
+Road.RL.1.GeoObject.5 = 368.13 0 368.13 0 1.858 100 10 0 0 0 0 1 1 1 0 3D/People/Worker_Male_03.mobj
+Road.RL.1.GeoObject.5.SensorBBox = 1 0 0.83 -0.47 0.3 0 1.83
+Road.RL.1.RoadMarking.0.ID = 19 9
+Road.RL.1.RoadMarking.0 = 0 0 0 1 0 1 0.15 0 1 0 0 2 4 1 1 0 ""
+Road.RL.1.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.1.RoadMarking.1.ID = 43 29
+Road.RL.1.RoadMarking.1 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 ""
+Road.RL.1.RoadMarking.1.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.1.RoadMarking.2.ID = 53 8
+Road.RL.1.RoadMarking.2 = 0 0 0 1 0 0 0.15 0 2 0 0 2 4 1 1 0 ""
+Road.RL.1.RoadMarking.2.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.1.TrafficBarrier.0.ID = 38 44
+Road.RL.1.TrafficBarrier.0 = 0 0 0.008 1 0 -1 0.155 0.75 1 0 3 1 1 0 2 0 0
+Road.RL.1.TrafficBarrier.0.Material.0 = Textures/Ground/Curb_BlackWhiteDiag_02.png 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.1.TrafficBarrier.1.ID = 118 9
+Road.RL.1.TrafficBarrier.1 = 0 0 0 1 0 1 0.155 0.75 1 0 3 1 1 0 2 0 0
+Road.RL.1.TrafficBarrier.1.Material.0 = Textures/Ground/Curb_BlackWhiteDiag_02.png 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.1.Mount.0.ID = 39 1
+Road.RL.1.Mount.0 = 40 0 0 1 1 1 0 0 0 0 3.1
+Road.RL.1.Mount.0.0.ID = 98
+Road.RL.1.Mount.0.0 = 0 3 0 0 0 0 0 2 1 1 Tunnel M "" 0 0 0 - - "" 0 0 0 - - "" 0 0 0
+Road.RL.1.Mount.0.0.Size = 0.600000023841858 0.600000023841858
+Road.RL.1.Mount.1.ID = 128 1
+Road.RL.1.Mount.1 = 253.052 0 -0.443 1 1 1 0 0 0 0 2.4
+Road.RL.1.Mount.1.0.ID = 129
+Road.RL.1.Mount.1.0 = 0 2 0 0 0 0 0 98 1 1 CurveR M "" 0 0 0 - - "" 0 0 0 - - "" 0 0 0
+Road.RL.1.Mount.1.0.Size = 0.778999984264374 0.899999976158142
+Road.RL.1.Mount.2.ID = 188 1
+Road.RL.1.Mount.2 = 367.921 0 0 1 1 7 0 0 0 4.5 5
+Road.RL.1.Mount.2.0.ID = 189
+Road.RL.1.Mount.2.0 = 0 0 0 0 0 0 0 2 1 1 Stop M "" 0 0 0 - - "" 0 0 0 - - "" 0 0 0
+Road.RL.1.Mount.2.0.Size = 0.899999976158142 0.899999976158142
+Road.RL.1.Bump.0.ID = 197 1
+Road.RL.1.Bump.0.Type = Cone
+Road.RL.1.Bump.0.Param = 101.174 0 0.066 100 1 0 0 0.1 2 2 1 1
+Road.RL.1.Bump.1.ID = 198 1
+Road.RL.1.Bump.1.Type = Beam
+Road.RL.1.Bump.1.Param = 112.724 0 -0.663 100 1 0 0 0.1 1 1 1 3
+Road.RL.1.Bump.2.ID = 199 1
+Road.RL.1.Bump.2.Type = Beam
+Road.RL.1.Bump.2.Param = 116.249 0 -2.356 100 1 0 0 0.1 1 1 1 3
+Road.RL.18.TreeStrip.0.ID = 196 18
+Road.RL.18.TreeStrip.0 = 0 0 461.682 0 0.064 1 15 0.5 1 1 0.5 0.5
+Road.RL.18.RoadMarking.0.ID = 100 57
+Road.RL.18.RoadMarking.0 = 0 0 0 1 0 1 0.15 0 1 0 0 2 4 1 1 0 ""
+Road.RL.18.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.18.RoadMarking.1.ID = 169 141
+Road.RL.18.RoadMarking.1 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 ""
+Road.RL.18.RoadMarking.1.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.18.RoadMarking.2.ID = 179 56
+Road.RL.18.RoadMarking.2 = 0 0 0 1 0 0 0.15 0 2 0 0 2 4 1 1 0 ""
+Road.RL.18.RoadMarking.2.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.59.TreeStrip.0.ID = 194 59
+Road.RL.59.TreeStrip.0 = 6.54 0 246.179 0 -23.849 1 15 0.5 1 1 0.5 0.5
+Road.RL.59.TreeStrip.1.ID = 195 59
+Road.RL.59.TreeStrip.1 = 244.854 0 396.532 0 -23.123 1 15 0.5 1 1 0.5 0.5
+Road.RL.59.RoadMarking.0.ID = 77 67
+Road.RL.59.RoadMarking.0 = 0 0 0 1 0 1 0.15 0 1 0 0 2 4 1 1 0 ""
+Road.RL.59.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.59.RoadMarking.1.ID = 101 87
+Road.RL.59.RoadMarking.1 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 ""
+Road.RL.59.RoadMarking.1.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.RL.59.RoadMarking.2.ID = 111 66
+Road.RL.59.RoadMarking.2 = 0 0 0 1 0 0 0.15 0 2 0 0 2 4 1 1 0 ""
+Road.RL.59.RoadMarking.2.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+Road.MaxUsedObjId = 199
+Road.VhclStartPos.Kind = Route
+Road.VhclStartPos = 0 0 0
+Road.VhclRoute = Route_0
+Env.StartTime.Year = 2014
+Env.StartTime.Month = 7
+Env.StartTime.Day = 1
+Env.StartTime.Hour = 12
+Env.StartTime.Min = 0
+Env.StartTime.Sec = 0
+Env.StartTime.DeltaUTC = 0.0
+Env.GNav.Active = 0
+Env.Temperature = 20.0
+Env.AirDensity = 1.205
+Env.AirPressure = 1.013
+Env.AirHumidity = 60
+Env.SolarRadiation = 400.0
+Env.RainRate = 0.0
+Env.VisRangeInFog = 10000.0
+Env.Wind.Kind = none
+Env.Wind.Velocity = 0.0
+Env.Wind.Angle = 0.0
+Env.Sun.Position = angleDefinition
+Env.Sun.Azimuth = 45.0
+Env.Sun.Elevation = 45.0
+Env.Kind = Generic
+Env.Temp.Offset_Elev = -0.0065
+Env.Temp.Offset_sRoad.Amplify = 1.0
+Env.Temp.Offset_sRoad.On = 0
+Env.Temp.Offset_Time.Amplify = 1.0
+Env.Temp.Offset_Time.On = 1
+Env.Temp.Offset_Time:
+	0.0 -2.0
+	3.0 -2.5
+	6.0 -2.7
+	7.5 -2.7
+	9.0 -2.5
+	10.0 -2.3
+	11.0 -1.6
+	12.0 0.0
+	13.0 1.4
+	14.0 2.1
+	15.5 2.5
+	17.0 2.2
+	18.0 1.7
+	19.0 1.1
+	20.0 0.2
+	21.0 -0.6
+	22.0 -1.1
+	23.0 -1.6
+	24.0 -2.0
+Driver.ParamIdent = IPGDriver 5
+Driver.Mode = std
+Driver.Long.DrivMaxSpeed = 0
+Driver.Long.CruisingSpeed = 150
+Driver.CornerCutCoef = 1
+Driver.ConsiderTraffic = 1
+Driver.Traffic.TimeGapMin = 1.8
+Driver.Traffic.TimeGapMax = 5.0
+Driver.Traffic.DistMin = 20
+Driver.Traffic.DistMax = 250
+Driver.Traffic.EcoCoef = 0.75
+Driver.Traffic.Overtake = 1
+Driver.Traffic.Overtake_Rate = 1
+Driver.Traffic.Overtake_dSpeedMin = 10
+Driver.Long.dtAccBrake = 0.5
+Driver.Long.axMax = 6
+Driver.Long.axMin = -4
+Driver.Long.ayMax = 3
+Driver.Long.GGExp:
+	50 1.0 1.0
+Driver.Long.DevMax = 0.0
+Driver.Long.tReact = 0.0
+Driver.Long.TractionControl = 1
+Driver.DecShift.UseBrakePark = 0
+Driver.DecShift.tSwitchGear = 1.0
+Driver.DecShift.nEngine.Limits:
+	1500 4000
+Driver.DecShift.nEngine.Shift:
+	2000 3000
+Driver.Lat.DevMax = 0.0
+Driver.Lat.tReact = 0.0
+Driver.Knowl.Long.tActionMin = 4
+Driver.Knowl.Lat.StWhlAngleMax = 630
+Driver.Knowl.Lat.StWhlAngleVelMax = 500
+Driver.Knowl.Lat.StWhlAngleAccMax = 3000
+Driver.Learn.VehicleLimits.TestRun =
+Driver.Learn.VehicleLimits.Date = 0
+Driver.Learn.ControllerDyn.TestRun =
+Driver.Learn.ControllerDyn.Date = 0
+Driver.Learn.MaxSpeed.TestRun =
+Driver.Learn.MaxSpeed.Date = 0
+Driver.Learn.Remember = 0
+Driver.Learn.Friction = 1.0
+Driver.Knowl.Long.tPreviewBra = 0.6
+Driver.Knowl.Long.tPreviewAcc = 1.5
+Driver.Knowl.Lat.tPreview = 0.8
+Driver.Learn.NEng_S = 1
+Driver.Consider.SpeedLimit = 1
+Driver.Consider.StopMarker = 1
+Driver.Consider.TrfLight = 1

@@ -1,0 +1,82 @@
+APPLICATION	CarMaker 10.1 - Car_Generic #299 (win64-10.1)
+COMPILED	fh@obelix.ipg 2021-07-20 16:42:55
+ 
+FIRST_INIT	(internal default used)	2022-01-03 10:15:43
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:15:43
+SIM_START	Blocked T	2022-01-03 10:15:44
+TIME	0.017
+ERROR		Traffic object 43: Start road position is outside of route/path length (2)
+ERROR		Can't get parameters of traffic object 43 (2)
+SIM_ABORT	Blocked T	0s	0m
+TIME	13.417
+SIM_START	Blocked T	2022-01-03 10:17:58
+TIME	0.017
+ERROR		Traffic object 49: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 49 (2)
+SIM_ABORT	Blocked T	0s	0m
+TIME	4.243
+SIM_START	Blocked T	2022-01-03 10:18:41
+TIME	0.017
+ERROR		Traffic object 49: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 49 (2)
+SIM_ABORT	Blocked T	0s	0m
+TIME	7.070
+SIM_START	Blocked T	2022-01-03 10:19:52
+TIME	0.017
+ERROR		Traffic object 49: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 49 (2)
+SIM_ABORT	Blocked T	0s	0m
+TIME	4.071
+SIM_START	Blocked T	2022-01-03 10:20:32
+TIME	0.016
+ERROR		Traffic object 50: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 50 (2)
+SIM_ABORT	Blocked T	0s	0m
+TIME	4.578
+SIM_START	Blocked T	2022-01-03 10:21:18
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	23.603
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	48.597
+SIM_END		Blocked T	48.591s	532.318m
+TIME	65.547
+SIM_START	Blocked T	2022-01-03 10:24:57
+TIME	0.017
+ERROR		Traffic object 45: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 45 (2)
+SIM_ABORT	Blocked T	0s	532.318m
+TIME	5.108
+SIM_START	Blocked T	2022-01-03 10:25:48
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	23.603
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	48.602
+SIM_END		Blocked T	48.591s	532.318m
+TIME	69.944
+SIM_START	Blocked T	2022-01-03 10:30:17
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	23.603
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	48.594
+SIM_END		Blocked T	48.591s	532.318m
+TIME	51.063
+SIM_START	Blocked T	2022-01-03 10:31:36
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	20.987
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	45.960
+SIM_END		Blocked T	45.956s	532.291m
+TIME	52.373
+		Connection to GUI lost, initiate shutdown
+SHUTDOWN	Automatic CarMaker shutdown initiated
+

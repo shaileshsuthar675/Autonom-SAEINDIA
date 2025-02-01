@@ -1,0 +1,192 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-20 21:47:08
+TIME	0.000
+SIM_END			0s	0m
+IDLE	21:47:08
+SIM_START	no_lane_marking	2022-01-20 21:47:10
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	21.805
+SIM_END		no_lane_marking	21.801s	410.081m
+TIME	34.711
+SIM_START	no_lane_marking	2022-01-20 21:49:34
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	20.006
+SIM_END		no_lane_marking	20.002s	360.088m
+TIME	148.912
+SIM_START	no_lane_marking	2022-01-20 22:11:11
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	30.221
+SIM_END		no_lane_marking	30.218s	365.103m
+TIME	39.861
+SIM_START	no_lane_marking	2022-01-20 22:13:00
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	31.159
+SIM_END		no_lane_marking	31.155s	365.104m
+SIM_START	no_lane_marking	2022-01-20 22:13:26
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	30.219
+SIM_END		no_lane_marking	30.216s	365.082m
+TIME	35.402
+SIM_START	no_lane_marking	2022-01-20 22:14:30
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	30.644
+SIM_END		no_lane_marking	30.641s	365.102m
+TIME	43.204
+SIM_START	no_lane_marking	2022-01-20 22:16:47
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	60.003
+SIM_END		no_lane_marking	60s	238.753m
+SIM_START	no_lane_marking	2022-01-20 22:17:16
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	30.644
+SIM_END		no_lane_marking	30.641s	365.102m
+TIME	0.001
+TIME	42.344
+SIM_START	no_lane_marking	2022-01-20 22:19:24
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	30.273
+SIM_END		no_lane_marking	30.27s	365.1m
+TIME	40.867
+SIM_START	no_lane_marking	2022-01-20 22:21:22
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	29.705
+SIM_END		no_lane_marking	29.701s	365.091m
+TIME	66.826
+SIM_START	no_lane_marking	2022-01-20 22:27:44
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	41.440
+SIM_END		no_lane_marking	41.437s	365.091m
+TIME	69.857
+SIM_START	no_lane_marking	2022-01-20 22:32:44
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	40.836
+SIM_END		no_lane_marking	40.833s	365.09m
+TIME	56.519
+SIM_START	no_lane_marking	2022-01-20 22:35:36
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	40.956
+SIM_END		no_lane_marking	40.952s	365.1m
+TIME	76.833
+SIM_START	no_lane_marking	2022-01-20 22:41:58
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	40.883
+SIM_END		no_lane_marking	40.88s	365.099m
+TIME	45.393
+SIM_START	no_lane_marking	2022-01-20 22:43:27
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	39.543
+SIM_END		no_lane_marking	39.539s	365.093m
+TIME	47.806
+SIM_START	no_lane_marking	2022-01-20 22:45:31
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	31.983
+SIM_END		no_lane_marking	31.98s	365.095m
+TIME	39.284
+SIM_START	no_lane_marking	2022-01-20 22:47:18
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	41.329
+SIM_END		no_lane_marking	41.326s	365.095m
+TIME	59.252
+SIM_START	no_lane_marking	2022-01-20 22:50:34
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	45.364
+SIM_END		no_lane_marking	45.36s	365.186m
+TIME	52.578
+SIM_START	no_lane_marking	2022-01-20 22:52:04
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	42.607
+SIM_END		no_lane_marking	42.604s	365.316m
+TIME	125.067
+SIM_START	no_lane_marking	2022-01-20 23:06:05
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	42.609
+SIM_END		no_lane_marking	42.604s	365.316m
+TIME	0.001
+SIM_START	no_lane_marking	2022-01-20 23:06:36
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	42.608
+SIM_END		no_lane_marking	42.604s	365.316m
+SIM_START	no_lane_marking	2022-01-20 23:07:37
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	42.607
+SIM_END		no_lane_marking	42.604s	365.316m
+TIME	0.001
+SIM_START	no_lane_marking	2022-01-20 23:10:40
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	42.607
+SIM_END		no_lane_marking	42.604s	365.316m
+TIME	225.433
+SIM_START	no_lane_marking	2022-01-20 23:41:54
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	30.959
+SIM_END		no_lane_marking	30.956s	365.137m
+TIME	38.939
+SIM_START	no_lane_marking	2022-01-20 23:43:47
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	37.668
+SIM_END		no_lane_marking	37.664s	365.375m
+SIM_START	no_lane_marking	2022-01-20 23:44:46
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	37.116
+SIM_END		no_lane_marking	37.113s	365.298m
+TIME	40.381
+SIM_START	no_lane_marking	2022-01-20 23:45:57
+TIME	0.000
+SIMULATE	no_lane_marking
+
+TIME	35.437
+SIM_END		no_lane_marking	35.434s	365.259m

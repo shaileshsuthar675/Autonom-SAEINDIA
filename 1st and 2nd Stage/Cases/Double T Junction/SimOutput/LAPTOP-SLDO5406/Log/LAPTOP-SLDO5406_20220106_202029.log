@@ -1,0 +1,61 @@
+APPLICATION	CarMaker 10.1 - Car_Generic #299 (win64-10.1)
+COMPILED	fh@obelix.ipg 2021-07-20 16:42:55
+ 
+FIRST_INIT	(internal default used)	2022-01-06 20:20:29
+TIME	0.000
+SIM_END			0s	0m
+IDLE	20:20:29
+SIM_START	Blocked T	2022-01-06 20:20:30
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	20.985
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	42.371
+SIM_END		Blocked T	42.367s	498.936m
+TIME	47.107
+SIM_START	Blocked T	2022-01-06 20:22:07
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	20.985
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	43.575
+SIM_END		Blocked T	43.57s	532.381m
+TIME	50.768
+SIM_START	Blocked T	2022-01-06 20:24:04
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	20.985
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	43.575
+SIM_END		Blocked T	43.57s	532.381m
+TIME	60.204
+SIM_START	Blocked T	2022-01-06 20:27:35
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	20.985
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	43.575
+SIM_END		Blocked T	43.57s	532.381m
+TIME	61.956
+SIM_START	Blocked T	2022-01-06 20:31:27
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	20.985
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	43.574
+SIM_END		Blocked T	43.57s	532.381m
+SIM_START	Blocked T	2022-01-06 20:32:18
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	20.985
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	39.544
+SIM_END		Blocked T	39.541s	420.974m
+SHUTDOWN	CarMaker quick shutdown initiated
+

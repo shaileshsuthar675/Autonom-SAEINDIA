@@ -1,0 +1,219 @@
+APPLICATION	CarMaker 10.1 - Car_Generic #299 (win64-10.1)
+COMPILED	fh@obelix.ipg 2021-07-20 16:42:55
+ 
+FIRST_INIT	(internal default used)	2022-01-03 06:31:25
+TIME	0.000
+SIM_END			0s	0m
+IDLE	06:31:25
+SIM_START	Blocked T	2022-01-03 06:31:27
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	28.871
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	34.012
+ERROR		Vehicle leaves road at about x=266.108, y=7.5037 TireNo=1
+SIM_ABORT	Blocked T	34.012s	272.72m
+TIME	36.740
+SIM_START	Blocked T	2022-01-03 06:32:13
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	31.436
+ERROR		Vehicle leaves road at about x=263.007, y=7.50294 TireNo=1
+SIM_ABORT	Blocked T	31.436s	265.518m
+SIM_START	Blocked T	2022-01-03 06:32:49
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	32.565
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+		LaneChange in maneuver 3 ignored (rv=-2)
+TIME	53.854
+SIM_END		Blocked T	53.851s	523.843m
+SIM_START	Blocked T	2022-01-03 06:33:26
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	32.565
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+		LaneChange in maneuver 3 ignored (rv=-2)
+TIME	53.854
+SIM_END		Blocked T	53.851s	523.843m
+SIM_START	Blocked T	2022-01-03 06:34:06
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	32.565
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	53.868
+SIM_END		Blocked T	53.865s	524.145m
+SIM_START	Blocked T	2022-01-03 06:34:49
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	32.313
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	53.645
+SIM_END		Blocked T	53.641s	523.132m
+SIM_START	Blocked T	2022-01-03 06:35:33
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	32.385
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	50.110
+SIM_END		Blocked T	50.107s	523.597m
+SIM_START	Blocked T	2022-01-03 06:36:05
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	32.277
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	50.002
+SIM_END		Blocked T	49.999s	522.942m
+SIM_START	Blocked T	2022-01-03 06:36:39
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	32.277
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	50.068
+SIM_END		Blocked T	50.065s	524.065m
+SIM_START	Blocked T	2022-01-03 06:37:16
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	32.277
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	50.002
+SIM_END		Blocked T	49.999s	522.942m
+SIM_START	Blocked T	2022-01-03 06:37:59
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	27.114
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	32.361
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	50.099
+SIM_END		Blocked T	50.096s	523.551m
+SIM_START	Blocked T	2022-01-03 06:38:31
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	27.114
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	34.317
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	52.755
+SIM_END		Blocked T	52.751s	523.634m
+TIME	56.477
+SIM_START	Blocked T	2022-01-03 06:39:37
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	26.614
+		LaneChange in maneuver 2 ignored (rv=-2)
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	28.637
+ERROR		Vehicle leaves road at about x=276.256, y=-5.00155 TireNo=0
+SIM_ABORT	Blocked T	28.637s	256.073m
+SIM_START	Blocked T	2022-01-03 06:40:05
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	26.714
+		LaneChange in maneuver 2 ignored (rv=-2)
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	34.140
+ERROR		Vehicle leaves road at about x=267.153, y=7.50065 TireNo=1
+SIM_ABORT	Blocked T	34.14s	271.433m
+TIME	38.518
+SIM_START	Blocked T	2022-01-03 06:41:08
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	27.264
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	34.245
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	52.682
+SIM_END		Blocked T	52.678s	523.448m
+SIM_START	Blocked T	2022-01-03 06:41:47
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	27.464
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	34.161
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	52.582
+SIM_END		Blocked T	52.579s	523.165m
+SIM_START	Blocked T	2022-01-03 06:42:33
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	27.064
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	34.353
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	52.783
+SIM_END		Blocked T	52.78s	523.721m
+SIM_START	Blocked T	2022-01-03 06:43:09
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	27.164
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	34.293
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	52.725
+SIM_END		Blocked T	52.717s	523.55m
+TIME	90.034
+SIM_START	Blocked T	2022-01-03 06:49:50
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	33.892
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	82.491
+SIM_END		Blocked T	82.487s	255.345m
+SIM_START	Blocked T	2022-01-03 06:50:39
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	24.260
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	47.655
+SIM_END		Blocked T	47.651s	522.812m
+TIME	55.305
+SIM_START	Blocked T	2022-01-03 06:52:22
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	53.942
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	68.300
+ERROR		Vehicle leaves road at about x=277.513, y=-5.00158 TireNo=0
+SIM_ABORT	Blocked T	68.3s	284.124m
+SIM_START	Blocked T	2022-01-03 06:53:12
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	24.210
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	47.674
+SIM_END		Blocked T	47.671s	522.876m
+TIME	56.232
+SIM_START	Blocked T	2022-01-03 06:55:04
+TIME	0.000
+SIMULATE	Blocked T
+
+TIME	24.210
+		LaneChange in maneuver 2 ignored (rv=-2)
+TIME	47.674
+SIM_END		Blocked T	47.671s	522.876m
+TIME	57.726
+SHUTDOWN	CarMaker quick shutdown initiated
+
