@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.14.1.0">
+	<node type="NodeDummy" id="1466335135" name="GeneratedTerrain">
+		<transform>1 8.74227838251e-08 -3.82137148619e-15 0.0 -8.74227838251e-08 1 -4.37113900019e-08 0.0 7.94093388051e-23 4.37113900019e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="2044584165" name="GeneratedTerrain_root">
+			<transform>1 -5.01610803597e-24 -7.88860905221e-31 0.0 -5.01610838384e-24 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1248311435" name="Background">
+				<mesh_name>e:/setup/mingw/scenariow/movienx/data/.import_cache/generatedterrain/background.mesh</mesh_name>
+				<surface name="Terrain_Area_0" material="401e90ccd85f4f2bb97c19ab9e1351325c4012eb"/>
+				<transform>1 -5.01610803597e-24 -7.88860905221e-31 0.0 -5.01610838384e-24 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>
