@@ -1,0 +1,91 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-07 13:55:28
+TIME	0.000
+SIM_END			0s	0m
+IDLE	13:55:28
+SIM_START	unknown	2022-01-07 13:55:30
+TIME	0.000
+SIMULATE	unknown
+
+TIME	37.253
+SIM_END		unknown	37.249s	446.085m
+TIME	41.691
+SIM_START	unknown	2022-01-07 13:56:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	41.266
+SIM_END		unknown	41.263s	496.764m
+SIM_START	unknown	2022-01-07 13:57:03
+TIME	0.000
+SIMULATE	unknown
+
+TIME	41.266
+SIM_END		unknown	41.263s	496.764m
+TIME	55.144
+SIM_START	unknown	2022-01-07 13:59:44
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.384
+SIM_END		unknown	30.38s	212.823m
+TIME	71.805
+SIM_START	unknown	2022-01-07 14:06:55
+TIME	0.000
+SIMULATE	unknown
+
+TIME	36.517
+SIM_END		unknown	36.513s	347.162m
+TIME	40.090
+SIM_START	unknown	2022-01-07 14:07:51
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.621
+SIM_END		unknown	30.617s	205.246m
+SIM_START	unknown	2022-01-07 14:08:25
+TIME	0.000
+SIMULATE	unknown
+
+TIME	25.153
+ERROR		Vehicle leaves road at about x=159.669, y=-7.00031 TireNo=1
+SIM_ABORT	unknown	25.153s	159.341m
+SIM_START	unknown	2022-01-07 14:08:54
+TIME	0.000
+SIMULATE	unknown
+
+TIME	41.266
+SIM_END		unknown	41.263s	496.772m
+TIME	333.670
+SIM_START	dmage_road	2022-01-07 16:09:05
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	36.682
+SIM_END		dmage_road	36.679s	495.511m
+TIME	42.036
+SIM_START	dmage_road	2022-01-07 16:10:20
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.748
+SIM_END		dmage_road	36.744s	497.683m
+TIME	93.868
+SIM_START	dmage_road	2022-01-07 16:20:09
+TIME	0.027
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	497.683m
+TIME	8.688
+SIM_START	dmage_road	2022-01-07 16:21:35
+TIME	0.030
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+TIME	98.274
+SHUTDOWN	CarMaker quick shutdown initiated
+

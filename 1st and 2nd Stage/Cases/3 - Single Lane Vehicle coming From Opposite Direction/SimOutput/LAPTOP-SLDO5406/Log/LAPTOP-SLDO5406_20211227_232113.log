@@ -1,0 +1,181 @@
+APPLICATION	CarMaker 10.1 - Car_Generic #299 (win64-10.1)
+COMPILED	fh@obelix.ipg 2021-07-20 16:42:55
+ 
+FIRST_INIT	(internal default used)	2021-12-27 23:21:13
+TIME	0.000
+SIM_END			0s	0m
+IDLE	23:21:13
+SIM_START	Village	2021-12-27 23:21:14
+TIME	0.000
+SIMULATE	Village
+
+TIME	33.022
+SIM_END		Village	33.019s	495.749m
+TIME	46.994
+SIM_START	Village	2021-12-27 23:24:38
+TIME	0.000
+SIMULATE	Village
+
+TIME	33.022
+SIM_END		Village	33.019s	495.749m
+TIME	49.200
+SIM_START	Village	2021-12-27 23:27:54
+TIME	0.000
+SIMULATE	Village
+
+TIME	45.245
+SIM_END		Village	45.241s	495.784m
+SIM_START	Village	2021-12-27 23:28:52
+TIME	0.000
+SIMULATE	Village
+
+TIME	45.245
+SIM_END		Village	45.241s	495.784m
+SIM_START	Village	2021-12-27 23:29:54
+TIME	0.000
+SIMULATE	Village
+
+TIME	49.174
+SIM_END		Village	49.171s	163.277m
+SIM_START	Village	2021-12-27 23:30:46
+TIME	0.000
+SIMULATE	Village
+
+TIME	37.502
+SIM_END		Village	37.498s	163.218m
+SIM_START	Village	2021-12-27 23:31:26
+TIME	0.008
+ERROR		Traffic object 0: Start road position is outside of route/path length (2)
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	Village	0s	163.218m
+TIME	4.651
+SIM_START	Village	2021-12-27 23:32:12
+TIME	0.000
+SIMULATE	Village
+
+TIME	44.574
+SIM_END		Village	44.571s	495.797m
+SIM_START	Village	2021-12-27 23:33:06
+TIME	0.000
+SIMULATE	Village
+
+TIME	46.387
+SIM_END		Village	46.384s	495.821m
+TIME	58.679
+SIM_START	Village	2021-12-27 23:35:57
+TIME	0.000
+SIMULATE	Village
+
+TIME	46.388
+SIM_END		Village	46.384s	495.821m
+SIM_START	Village	2021-12-27 23:36:48
+TIME	0.000
+SIMULATE	Village
+
+TIME	45.047
+SIM_END		Village	45.044s	495.793m
+TIME	49.631
+SIM_START	Village	2021-12-27 23:38:21
+TIME	0.000
+SIMULATE	Village
+
+TIME	16.006
+		Traffic object 0: maneuver 'LaneChange' at time=16.005s ignored (rv=5)
+TIME	21.006
+		Traffic object 0: maneuver 'LaneChange' at time=21.005s ignored (rv=5)
+TIME	45.910
+SIM_END		Village	45.906s	495.803m
+TIME	50.459
+SIM_START	Village	2021-12-27 23:39:54
+TIME	0.000
+SIMULATE	Village
+
+TIME	9.168
+SIM_END		Village	9.164s	1.32459e-006m
+SIM_START	Village	2021-12-27 23:40:06
+TIME	0.000
+SIMULATE	Village
+
+TIME	16.006
+		Traffic object 0: maneuver 'LaneChange' at time=16.005s ignored (rv=5)
+SIM_END		Village	17.801s	2.34215e-006m
+SIM_START	Village	2021-12-27 23:40:26
+TIME	0.000
+SIMULATE	Village
+
+TIME	16.006
+		Traffic object 0: maneuver 'LaneChange' at time=16.005s ignored (rv=5)
+TIME	21.006
+		Traffic object 0: maneuver 'LaneChange' at time=21.005s ignored (rv=5)
+TIME	48.434
+SIM_END		Village	48.431s	495.799m
+SIM_START	Village	2021-12-27 23:41:27
+TIME	0.000
+SIMULATE	Village
+
+TIME	16.006
+		Traffic object 0: maneuver 'LaneChange' at time=16.005s ignored (rv=5)
+TIME	21.006
+		Traffic object 0: maneuver 'LaneChange' at time=21.005s ignored (rv=5)
+TIME	47.515
+SIM_END		Village	47.512s	495.775m
+SIM_START	Village	2021-12-27 23:42:22
+TIME	0.000
+SIMULATE	Village
+
+TIME	16.006
+		Traffic object 0: maneuver 'LaneChange' at time=16.005s ignored (rv=5)
+TIME	21.006
+		Traffic object 0: maneuver 'LaneChange' at time=21.005s ignored (rv=5)
+TIME	50.198
+SIM_END		Village	50.194s	496.092m
+TIME	57.681
+SIM_START	Village	2021-12-27 23:44:29
+TIME	0.000
+SIMULATE	Village
+
+TIME	47.196
+SIM_END		Village	47.192s	496.112m
+TIME	50.066
+SIM_START	Village	2021-12-27 23:45:47
+TIME	0.000
+SIMULATE	Village
+
+TIME	47.195
+SIM_END		Village	47.192s	496.112m
+TIME	55.895
+SIM_START	Village	2021-12-27 23:48:03
+TIME	0.000
+SIMULATE	Village
+
+TIME	46.323
+SIM_END		Village	46.319s	496.102m
+SIM_START	Village	2021-12-27 23:48:56
+TIME	0.000
+SIMULATE	Village
+
+TIME	45.575
+SIM_END		Village	45.572s	496.102m
+SIM_START	Village	2021-12-27 23:49:48
+TIME	0.000
+SIMULATE	Village
+
+TIME	45.575
+SIM_END		Village	45.572s	496.102m
+TIME	49.066
+SIM_START	Village	2021-12-27 23:51:10
+TIME	0.000
+SIMULATE	Village
+
+TIME	46.692
+SIM_END		Village	46.689s	496.081m
+TIME	50.310
+SIM_START	Village	2021-12-27 23:52:35
+TIME	0.000
+SIMULATE	Village
+
+TIME	45.575
+SIM_END		Village	45.572s	496.102m
+TIME	54.221
+SHUTDOWN	CarMaker quick shutdown initiated
+

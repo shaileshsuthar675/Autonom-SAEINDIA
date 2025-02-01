@@ -1,0 +1,109 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-22 19:16:50
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:16:51
+SIM_START	2015481_Scenario_28	2022-01-22 19:16:52
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	71.920
+ERROR		Vehicle leaves road at about x=107.638, y=-31.109 TireNo=0
+SIM_ABORT	2015481_Scenario_28	71.92s	192.463m
+TIME	77.365
+SIM_START	2015481_Scenario_28	2022-01-22 19:18:39
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	60.084
+SIM_END		2015481_Scenario_28	60.079s	167.367m
+TIME	65.718
+SIM_START	2015481_Scenario_28	2022-01-22 19:19:53
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	76.543
+SIM_END		2015481_Scenario_28	76.539s	250.189m
+TIME	87.588
+SIM_START	2015481_Scenario_28	2022-01-22 19:22:12
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	75.540
+SIM_END		2015481_Scenario_28	75.536s	250.195m
+TIME	82.816
+SIM_START	2015481_Scenario_28	2022-01-22 19:23:48
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	75.539
+SIM_END		2015481_Scenario_28	75.536s	250.195m
+TIME	83.326
+SIM_START	2015481_Scenario_28	2022-01-22 19:25:24
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	73.056
+ERROR		Vehicle leaves road at about x=113.026, y=-20.4094 TireNo=0
+SIM_ABORT	2015481_Scenario_28	73.056s	196.845m
+SIM_START	2015481_Scenario_28	2022-01-22 19:25:59
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	73.056
+ERROR		Vehicle leaves road at about x=113.027, y=-20.4095 TireNo=0
+SIM_ABORT	2015481_Scenario_28	73.056s	196.845m
+SIM_START	2015481_Scenario_28	2022-01-22 19:26:32
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	77.736
+SIM_END		2015481_Scenario_28	77.733s	250.267m
+TIME	82.326
+SIM_START	2015481_Scenario_28	2022-01-22 19:27:36
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	72.298
+ERROR		Embedded FARoadSensor Geo:  xyz (107.70 -20.39 -0.01) not found on Road
+SIM_ABORT	2015481_Scenario_28	72.298s	191.629m
+SIM_START	2015481_Scenario_28	2022-01-22 19:28:08
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	77.661
+SIM_END		2015481_Scenario_28	77.658s	250.1m
+TIME	81.039
+SIM_START	2015481_Scenario_28	2022-01-22 19:29:00
+TIME	0.000
+SIMULATE	2015481_Scenario_28
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	77.663
+SIM_END		2015481_Scenario_28	77.658s	250.1m
+TIME	85.907
+SHUTDOWN	CarMaker quick shutdown initiated
+
