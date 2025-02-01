@@ -1,0 +1,120 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-14 17:38:32
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:38:33
+SIM_START	school_area	2022-01-14 17:38:36
+TIME	0.000
+SIMULATE	school_area
+
+TIME	50.003
+SIM_END		school_area	50s	247.6m
+SIM_START	school_area	2022-01-14 17:39:51
+TIME	0.000
+SIMULATE	school_area
+
+TIME	60.003
+SIM_END		school_area	60s	309.848m
+TIME	105.372
+SIM_START	school_area	2022-01-14 17:47:42
+TIME	0.000
+SIMULATE	school_area
+
+TIME	36.792
+SIM_END		school_area	36.789s	247.574m
+TIME	0.001
+SIM_START	school_area	2022-01-14 17:48:17
+TIME	0.000
+SIMULATE	school_area
+
+TIME	59.682
+SIM_END		school_area	59.677s	303.969m
+TIME	67.489
+SIM_START	school_area	2022-01-14 17:50:08
+TIME	0.000
+SIMULATE	school_area
+
+TIME	60.003
+SIM_END		school_area	60s	309.848m
+TIME	231.354
+SIM_START	school_area	2022-01-14 18:19:14
+TIME	0.000
+SIMULATE	school_area
+
+TIME	60.003
+SIM_END		school_area	60s	309.848m
+TIME	266.619
+SIM_START	school_area	2022-01-14 18:54:12
+TIME	0.000
+SIMULATE	school_area
+
+TIME	60.004
+SIM_END		school_area	60s	309.848m
+TIME	63.141
+SIM_START	school_area	2022-01-14 18:55:15
+TIME	0.000
+SIMULATE	school_area
+
+TIME	60.003
+SIM_END		school_area	60s	309.848m
+TIME	66.278
+SIM_START	school_area	2022-01-14 18:56:41
+TIME	0.000
+SIMULATE	school_area
+
+TIME	60.003
+SIM_END		school_area	60s	309.848m
+TIME	72.886
+SIM_START	school_area	2022-01-14 18:59:12
+TIME	0.000
+SIMULATE	school_area
+
+TIME	60.003
+SIM_END		school_area	60s	309.848m
+TIME	67.093
+SIM_START	school_area	2022-01-14 19:01:24
+TIME	0.000
+SIMULATE	school_area
+
+TIME	70.003
+SIM_END		school_area	70s	507.774m
+TIME	76.402
+SIM_START	school_area	2022-01-14 19:02:54
+TIME	0.000
+SIMULATE	school_area
+
+TIME	31.079
+SIM_END		school_area	31.075s	247.572m
+TIME	51.647
+SIM_START	school_area	2022-01-14 19:06:32
+TIME	0.000
+SIMULATE	school_area
+
+TIME	57.064
+SIM_END		school_area	57.06s	266.312m
+TIME	70.772
+SIM_START	school_area	2022-01-14 19:09:10
+TIME	0.000
+SIMULATE	school_area
+
+TIME	33.075
+SIM_END		school_area	33.071s	247.573m
+TIME	35.181
+SIM_START	school_area	2022-01-14 19:09:43
+TIME	0.000
+SIMULATE	school_area
+
+TIME	70.003
+SIM_END		school_area	70s	507.774m
+TIME	75.318
+SIM_START	school_area	2022-01-14 19:11:06
+TIME	0.000
+SIMULATE	school_area
+
+TIME	63.898
+SIM_END		school_area	63.894s	396.15m
+TIME	193.084
+SHUTDOWN	CarMaker quick shutdown initiated
+

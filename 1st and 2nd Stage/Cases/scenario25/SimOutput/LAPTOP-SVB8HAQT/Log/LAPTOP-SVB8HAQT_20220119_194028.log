@@ -1,0 +1,25 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-19 19:40:28
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:40:29
+SIM_START	a	2022-01-19 19:40:32
+TIME	0.006
+WARNING		IPGDriver: LatInc too big (t=0.000, s=619.000m, LatInc=23.674deg, ay_LatInc=-0.255m/ss) (1) (id=200)
+TIME	0.000
+SIMULATE	a
+
+TIME	3.951
+SIM_END		a	3.947s	29.6561m
+SIM_START	a	2022-01-19 19:40:45
+TIME	0.005
+WARNING		IPGDriver: LatInc too big (t=0.000, s=619.000m, LatInc=23.674deg, ay_LatInc=-0.255m/ss) (1) (id=200)
+TIME	0.000
+SIMULATE	a
+
+TIME	25.169
+SHUTDOWN	CarMaker quick shutdown initiated
+
+SIM_END		a	25.169s	43.2985m

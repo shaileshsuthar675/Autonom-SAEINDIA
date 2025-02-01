@@ -1,0 +1,88 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2021-12-22 13:46:05
+TIME	0.000
+SIM_END			0s	0m
+IDLE	13:46:05
+SIM_START	unknown	2021-12-22 13:46:08
+TIME	0.000
+SIMULATE	unknown
+
+TIME	18.294
+SIM_END		unknown	18.29s	195.738m
+SIM_START	unknown	2021-12-22 13:46:29
+TIME	0.000
+SIMULATE	unknown
+
+TIME	18.293
+SIM_END		unknown	18.29s	195.738m
+SIM_START	unknown	2021-12-22 13:46:58
+TIME	0.000
+SIMULATE	unknown
+
+TIME	18.293
+SIM_END		unknown	18.29s	195.738m
+TIME	61.132
+SIM_START	unknown	2021-12-22 13:54:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	65.1737m
+TIME	32.310
+SIM_START	unknown	2021-12-22 13:55:25
+TIME	0.000
+SIMULATE	unknown
+
+TIME	20.267
+SIM_END		unknown	20.263s	65.1689m
+TIME	27.955
+SIM_START	unknown	2021-12-22 13:57:05
+TIME	0.000
+SIMULATE	unknown
+
+TIME	25.185
+SIM_END		unknown	25.181s	65.1717m
+TIME	74.735
+SIM_START	unknown	2021-12-22 14:05:49
+TIME	0.000
+SIMULATE	unknown
+
+TIME	23.221
+SIM_END		unknown	23.217s	65.1706m
+TIME	25.625
+SIM_START	Examples/VehicleDynamics/Handling/LaneChange_ADAC	2021-12-22 14:06:40
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/LaneChange_ADAC
+
+TIME	35.354
+SIM_END		Examples/VehicleDynamics/Handling/LaneChange_ADAC	35.35s	626.695m
+TIME	88.723
+SIM_START	Examples/VehicleDynamics/Handling/LaneChange_ADAC	2021-12-22 14:16:12
+TIME	0.036
+WARNING		IPGDriver: Road points 128 129 130 have contrary directions, will be exchanged.   Pi-2=(573.640503; 9.623000)  Pi-1=(575.000000; -0.690000)  Pi=(576.341003; 6.262000) alpha=161.572409 (id=200)
+WARNING		IPGDriver: Road points 129 130 131 have contrary directions, will be exchanged.   Pi-2=(574.990723; 7.942500)  Pi-1=(576.341003; 6.262000)  Pi=(577.682007; 13.214000) alpha=130.300199 (id=200)
+WARNING		IPGDriver: Road points 130 131 132 have contrary directions, will be exchanged.   Pi-2=(576.336365; 10.578250)  Pi-1=(577.682007; 13.214000)  Pi=(578.886475; 9.738000) alpha=133.842406 (id=200)
+ERROR		IPGDriver: Road points 134 135 136 have contrary directions, will be exchanged.   Pi-2=(581.295410; 2.786000)  Pi-1=(582.500000; -0.690000)  Pi=(584.234985; 7.046000) alpha=148.245710 (id=200)
+ERROR		Too many warnings
+ERROR		IPGDriver: Road points 140 141 142 have contrary directions, will be exchanged.   Pi-2=(588.847046; 0.857200)  Pi-1=(590.000000; -0.690000)  Pi=(591.030029; 5.715212) alpha=134.171394 (id=200)
+SIM_ABORT	Examples/VehicleDynamics/Handling/LaneChange_ADAC	0s	626.695m
+TIME	4.825
+SIM_START	Examples/VehicleDynamics/Handling/LaneChange_VDA	2021-12-22 14:17:00
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/LaneChange_VDA
+
+TIME	40.545
+SIM_END		Examples/VehicleDynamics/Handling/LaneChange_VDA	40.542s	368.07m
+TIME	44.123
+SIM_START	Examples/VehicleDynamics/Handling/Racetrack_Hockenheim	2021-12-22 14:17:59
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/Racetrack_Hockenheim
+
+TIME	47.622
+		Lap   1: t=  47.621s	Dist=2559.2831m	sRoad=0.8928m
+TIME	91.530
+		Lap   2: t=  43.908s	Dist=2564.4944m	sRoad=0.8735m
+TIME	132.430
+SIM_END		Examples/VehicleDynamics/Handling/Racetrack_Hockenheim	132.426s	7467.87m

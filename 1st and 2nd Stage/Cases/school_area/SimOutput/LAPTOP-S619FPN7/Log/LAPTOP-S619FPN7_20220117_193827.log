@@ -1,0 +1,34 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-17 19:38:27
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:38:27
+SIM_START	school_area	2022-01-17 19:38:31
+TIME	0.000
+SIMULATE	school_area
+
+TIME	100.578
+SIM_END		school_area	100.575s	534.062m
+TIME	104.636
+SIM_START	school_area	2022-01-17 19:39:57
+TIME	0.000
+SIMULATE	school_area
+
+TIME	85.143
+SIM_END		school_area	85.139s	534.052m
+TIME	95.365
+SIM_START	school_area	2022-01-17 19:42:10
+TIME	0.000
+SIMULATE	school_area
+
+TIME	85.142
+SIM_END		school_area	85.139s	534.052m
+TIME	118.578
+SIM_START	school_area	2022-01-17 19:48:16
+TIME	0.000
+SIMULATE	school_area
+
+TIME	78.163
+SIM_END		school_area	78.159s	534.058m

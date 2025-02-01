@@ -1,0 +1,99 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-09 20:54:47
+TIME	0.000
+SIM_END			0s	0m
+IDLE	20:54:47
+SIM_START	diversion_due_to_trafic_1	2022-01-09 20:54:49
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	55.058
+SIM_END		diversion_due_to_trafic_1	55.054s	0.71623m
+TIME	63.330
+SIM_START	diversion_due_to_trafic_1	2022-01-09 20:57:14
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	80.003
+SIM_END		diversion_due_to_trafic_1	80s	623.83m
+TIME	89.122
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:00:07
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	80.003
+SIM_END		diversion_due_to_trafic_1	80s	619.425m
+TIME	112.554
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:06:55
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	80.003
+SIM_END		diversion_due_to_trafic_1	80s	659.004m
+TIME	91.232
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:10:10
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	26.256
+SIM_END		diversion_due_to_trafic_1	26.252s	201.629m
+TIME	28.768
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:11:03
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	60.003
+SIM_END		diversion_due_to_trafic_1	60s	509.958m
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:11:44
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	120.004
+SIM_END		diversion_due_to_trafic_1	120s	625.721m
+TIME	130.142
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:13:54
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	104.510
+SIM_END		diversion_due_to_trafic_1	104.507s	754.594m
+TIME	167.245
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:24:45
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	104.511
+SIM_END		diversion_due_to_trafic_1	104.507s	754.594m
+TIME	115.070
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:26:55
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	102.003
+SIM_END		diversion_due_to_trafic_1	102s	743.857m
+TIME	106.020
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:27:58
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	102.003
+SIM_END		diversion_due_to_trafic_1	102s	743.857m
+TIME	140.284
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:36:07
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	56.420
+SIM_END		diversion_due_to_trafic_1	56.416s	453.747m
+TIME	80.087
+SIM_START	diversion_due_to_trafic_1	2022-01-09 21:41:05
+TIME	0.000
+SIMULATE	diversion_due_to_trafic_1
+
+TIME	104.404
+SIM_END		diversion_due_to_trafic_1	104.401s	754.812m
+TIME	766.462
+SHUTDOWN	CarMaker quick shutdown initiated
+

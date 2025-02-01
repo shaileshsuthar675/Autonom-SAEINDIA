@@ -1,0 +1,195 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-14 15:52:12
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:52:13
+SIM_START	senario_3	2022-01-14 15:52:14
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	2.003
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	15.994
+SIM_END		senario_3	15.99s	104.007m
+TIME	80.241
+SIM_START	senario_3	2022-01-14 16:03:14
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	20.320
+SIM_END		senario_3	20.316s	135.339m
+TIME	25.188
+SIM_START	senario_3	2022-01-14 16:04:32
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	5.420
+SIM_END		senario_3	5.416s	20.0214m
+TIME	7.477
+SIM_START	senario_3	2022-01-14 16:05:01
+TIME	0.000
+SIMULATE	senario_3
+
+SIM_END		senario_3	0.002s	3.99822e-010m
+SIM_START	senario_3	2022-01-14 16:05:13
+TIME	0.000
+SIMULATE	senario_3
+
+SIM_END		senario_3	0.002s	3.99822e-010m
+SIM_START	senario_3	2022-01-14 16:05:28
+TIME	0.000
+SIMULATE	senario_3
+
+SIM_END		senario_3	0.002s	3.99822e-010m
+TIME	4.642
+SIM_START	senario_3	2022-01-14 16:06:17
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	30.003
+SIM_END		senario_3	30s	279.532m
+TIME	33.664
+SIM_START	senario_3	2022-01-14 16:07:27
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	18.224
+SIM_END		senario_3	18.219s	143.869m
+TIME	20.721
+SIM_START	senario_3	2022-01-14 16:08:13
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	24.460
+SIM_END		senario_3	24.456s	471.403m
+SIM_START	senario_3	2022-01-14 16:09:00
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	13.195
+SIM_END		senario_3	13.192s	123.698m
+TIME	15.690
+SIM_START	senario_3	2022-01-14 16:09:41
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	14.175
+SIM_END		senario_3	14.17s	187.2m
+TIME	16.790
+SIM_START	senario_3	2022-01-14 16:10:24
+TIME	0.003
+ERROR		Traffic object 62: Unknown lane in manoever 1
+ERROR		Can't get parameters of traffic object 62 (2)
+SIM_ABORT	senario_3	0s	187.2m
+TIME	0.001
+SIM_START	senario_3	2022-01-14 16:10:40
+TIME	0.004
+ERROR		Traffic object 62: Unknown lane in manoever 1
+ERROR		Can't get parameters of traffic object 62 (2)
+SIM_ABORT	senario_3	0s	0m
+SIM_START	senario_3	2022-01-14 16:10:53
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	17.567
+SIM_END		senario_3	17.564s	280.947m
+TIME	44.857
+SIM_START	senario_3	2022-01-14 16:15:46
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	23.229
+SIM_END		senario_3	23.224s	437.44m
+SIM_START	senario_3	2022-01-14 16:16:18
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	23.536
+SIM_END		senario_3	23.532s	445.921m
+SIM_START	senario_3	2022-01-14 16:16:48
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	23.367
+SIM_END		senario_3	23.362s	263.46m
+TIME	29.151
+SIM_START	senario_3	2022-01-14 16:18:01
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	26.004
+SIM_END		senario_3	25.999s	350.167m
+TIME	29.441
+SIM_START	senario_3	2022-01-14 16:18:51
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	30.003
+SIM_END		senario_3	30s	314.551m
+TIME	37.630
+SIM_START	senario_3	2022-01-14 16:20:25
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	30.003
+SIM_END		senario_3	30s	314.283m
+SIM_START	senario_3	2022-01-14 16:20:57
+TIME	0.000
+SIMULATE	senario_3
+
+TIME	30.004
+SIM_END		senario_3	30s	313.41m
+TIME	43.924
+SIM_START	sudden_lane_change	2022-01-14 16:23:34
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.004
+SIM_END		sudden_lane_change	30s	313.412m
+TIME	121.233
+SIM_START	sudden_lane_change	2022-01-14 16:39:05
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.004
+SIM_END		sudden_lane_change	30s	313.412m
+TIME	34.265
+SIM_START	sudden_lane_change	2022-01-14 16:40:08
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.003
+SIM_END		sudden_lane_change	30s	313.985m
+TIME	0.001
+SIM_START	sudden_lane_change	2022-01-14 16:40:42
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.004
+SIM_END		sudden_lane_change	30s	313.985m
+TIME	35.860
+SIM_START	sudden_lane_change	2022-01-14 16:42:15
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.003
+SIM_END		sudden_lane_change	30s	314.774m
+TIME	37.618
+SIM_START	sudden_lane_change	2022-01-14 16:44:07
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.005
+SIM_END		sudden_lane_change	30s	314.774m
+TIME	48.588
+SIM_START	sudden_lane_change	2022-01-14 16:47:48
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.003
+SIM_END		sudden_lane_change	30s	314.774m
+TIME	320.683
+SHUTDOWN	CarMaker quick shutdown initiated
+

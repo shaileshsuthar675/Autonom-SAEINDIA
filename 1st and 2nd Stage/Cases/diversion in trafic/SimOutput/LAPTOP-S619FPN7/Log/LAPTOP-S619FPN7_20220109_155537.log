@@ -1,0 +1,73 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-09 15:55:37
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:55:38
+SIM_START	unknown	2022-01-09 15:55:41
+TIME	0.000
+SIMULATE	unknown
+
+TIME	61.611
+SIM_END		unknown	61.607s	705.242m
+TIME	92.259
+SIM_START	unknown	2022-01-09 16:01:56
+TIME	0.000
+SIMULATE	unknown
+
+TIME	62.012
+SIM_END		unknown	61.607s	705.242m
+TIME	94.647
+SIM_START	unknown	2022-01-09 16:08:07
+TIME	0.000
+SIMULATE	unknown
+
+TIME	61.610
+SIM_END		unknown	61.607s	705.242m
+TIME	0.001
+TIME	147.094
+SIM_START	unknown	2022-01-09 16:22:56
+TIME	0.000
+SIMULATE	unknown
+
+TIME	63.090
+SIM_END		unknown	63.086s	705.244m
+TIME	211.041
+SIM_START	unknown	2022-01-09 17:28:23
+TIME	0.000
+SIMULATE	unknown
+
+TIME	63.089
+SIM_END		unknown	63.086s	705.244m
+TIME	91.264
+SIM_START	diversion_due_to_trafic	2022-01-09 17:33:39
+TIME	0.000
+SIMULATE	diversion_due_to_trafic
+
+TIME	67.379
+SIM_END		diversion_due_to_trafic	67.375s	724.204m
+TIME	85.009
+SIM_START	diversion_due_to_trafic	2022-01-09 17:37:12
+TIME	0.000
+SIMULATE	diversion_due_to_trafic
+
+TIME	67.378
+SIM_END		diversion_due_to_trafic	67.375s	724.204m
+TIME	71.663
+SIM_START	diversion_due_to_trafic	2022-01-09 17:38:31
+TIME	0.000
+SIMULATE	diversion_due_to_trafic
+
+TIME	67.378
+SIM_END		diversion_due_to_trafic	67.375s	724.204m
+SIM_START	diversion_due_to_trafic	2022-01-09 17:39:19
+TIME	0.000
+SIMULATE	diversion_due_to_trafic
+
+TIME	67.378
+SIM_END		diversion_due_to_trafic	67.375s	724.204m
+TIME	511.770
+		Connection to GUI lost, initiate shutdown
+SHUTDOWN	Automatic CarMaker shutdown initiated
+

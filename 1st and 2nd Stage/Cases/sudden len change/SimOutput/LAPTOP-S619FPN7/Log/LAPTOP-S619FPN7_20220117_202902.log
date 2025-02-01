@@ -1,0 +1,148 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-17 20:29:02
+TIME	0.000
+SIM_END			0s	0m
+IDLE	20:29:03
+SIM_START	sudden_lane_change	2022-01-17 20:29:07
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.006
+SIM_END		sudden_lane_change	30s	314.774m
+TIME	67.928
+SIM_START	sudden_lane_change	2022-01-17 20:35:59
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.003
+SIM_END		sudden_lane_change	30s	283.931m
+SIM_START	sudden_lane_change	2022-01-17 20:36:34
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	30.003
+SIM_END		sudden_lane_change	30s	283.931m
+TIME	44.120
+SIM_START	sudden_lane_change	2022-01-17 20:39:09
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	88.935
+SIM_END		sudden_lane_change	88.932s	995.572m
+TIME	96.882
+SIM_START	sudden_lane_change	2022-01-17 20:41:01
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	993.477m
+TIME	102.995
+SIM_START	sudden_lane_change	2022-01-17 20:43:45
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	89.080
+SIM_END		sudden_lane_change	89.077s	995.576m
+TIME	100.598
+SIM_START	sudden_lane_change	2022-01-17 20:46:13
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	89.325
+SIM_END		sudden_lane_change	89.321s	995.582m
+TIME	94.604
+SIM_START	sudden_lane_change	2022-01-17 20:47:39
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	89.398
+ERROR		LineSensor 0:  xyz (1000.05 -1.80 0.37) not found on Road
+SIM_ABORT	sudden_lane_change	89.398s	995.529m
+TIME	100.610
+SIM_START	sudden_lane_change	2022-01-17 20:50:04
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	88.945
+SIM_END		sudden_lane_change	88.942s	995.575m
+TIME	114.731
+SIM_START	sudden_lane_change	2022-01-17 20:54:55
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	995.303m
+TIME	95.274
+SIM_START	sudden_lane_change	2022-01-17 20:56:21
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	979.214m
+TIME	97.662
+SIM_START	sudden_lane_change	2022-01-17 20:58:11
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.004
+SIM_END		sudden_lane_change	90s	994.805m
+SIM_START	sudden_lane_change	2022-01-17 20:58:55
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	987.117m
+TIME	98.643
+SIM_START	sudden_lane_change	2022-01-17 21:00:55
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.005
+SIM_END		sudden_lane_change	90s	987.117m
+TIME	104.540
+SIM_START	sudden_lane_change	2022-01-17 21:03:54
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.004
+SIM_END		sudden_lane_change	90s	987.117m
+TIME	96.882
+SIM_START	sudden_lane_change	2022-01-17 21:05:36
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	987.117m
+TIME	95.679
+SIM_START	sudden_lane_change	2022-01-17 21:07:06
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	987.117m
+TIME	92.857
+SIM_START	sudden_lane_change	2022-01-17 21:08:09
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	987.117m
+TIME	112.795
+SIM_START	sudden_lane_change	2022-01-17 21:12:30
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	987.117m
+TIME	97.530
+SIM_START	sudden_lane_change	2022-01-17 21:14:19
+TIME	0.000
+SIMULATE	sudden_lane_change
+
+TIME	90.003
+SIM_END		sudden_lane_change	90s	987.117m
+TIME	232.561
+SHUTDOWN	CarMaker quick shutdown initiated
+

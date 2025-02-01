@@ -1,0 +1,178 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2021-12-21 13:58:05
+TIME	0.000
+SIM_END			0s	0m
+IDLE	13:58:06
+SIM_START	unknown	2021-12-21 13:58:08
+TIME	0.000
+SIMULATE	unknown
+
+TIME	37.980
+SIM_END		unknown	37.976s	655.65m
+TIME	42.820
+SIM_START	unknown	2021-12-21 13:59:38
+TIME	0.000
+SIMULATE	unknown
+
+TIME	37.979
+SIM_END		unknown	37.976s	655.65m
+TIME	41.656
+SIM_START	unknown	2021-12-21 14:00:56
+TIME	0.000
+SIMULATE	unknown
+
+TIME	48.661
+SIM_END		unknown	48.658s	655.653m
+TIME	62.704
+SIM_START	unknown	2021-12-21 14:03:50
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.003
+SIM_END		unknown	40s	511.353m
+TIME	60.594
+SIM_START	unknown	2021-12-21 14:07:39
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.005
+SIM_END		unknown	40s	511.353m
+TIME	46.270
+SIM_START	unknown	2021-12-21 14:09:05
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.003
+SIM_END		unknown	40s	511.353m
+SIM_START	unknown	2021-12-21 14:09:46
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.003
+SIM_END		unknown	40s	511.353m
+TIME	42.010
+SIM_START	unknown	2021-12-21 14:10:29
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.004
+SIM_END		unknown	40s	501.535m
+SIM_START	unknown	2021-12-21 14:11:05
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.003
+SIM_END		unknown	40s	447.827m
+TIME	42.715
+SIM_START	unknown	2021-12-21 14:11:55
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.003
+SIM_END		unknown	40s	467.828m
+TIME	48.077
+SIM_START	unknown	2021-12-21 14:13:38
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.003
+SIM_END		unknown	40s	467.828m
+TIME	53.829
+SIM_START	unknown	2021-12-21 14:16:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.004
+SIM_END		unknown	40s	467.828m
+TIME	50.481
+SIM_START	unknown	2021-12-21 14:18:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.003
+SIM_END		unknown	40s	467.828m
+TIME	193.850
+SIM_START	unknown	2021-12-21 14:44:29
+TIME	0.000
+SIMULATE	unknown
+
+SIM_END		unknown	0.203s	0.000167999m
+SIM_START	unknown	2021-12-21 14:44:38
+TIME	0.000
+SIMULATE	unknown
+
+SIM_END		unknown	0.203s	0.000167999m
+SIM_START	unknown	2021-12-21 14:44:51
+TIME	0.000
+SIMULATE	unknown
+
+SIM_END		unknown	0.203s	0.000167999m
+SIM_START	unknown	2021-12-21 14:44:58
+TIME	0.000
+SIMULATE	unknown
+
+SIM_END		unknown	0.203s	0.000167999m
+TIME	2.606
+SIM_START	unknown	2021-12-21 14:45:24
+TIME	0.000
+SIMULATE	unknown
+
+TIME	40.003
+SIM_END		unknown	40s	467.828m
+TIME	105.335
+SIM_START	AEB_CrossingCyclistIntersection	2021-12-21 14:56:35
+TIME	0.000
+SIMULATE	AEB_CrossingCyclistIntersection
+
+TIME	12.567
+SIM_END		AEB_CrossingCyclistIntersection	12.564s	98.4627m
+TIME	16.958
+SIM_START	AEB_CrossingCyclistIntersection	2021-12-21 14:57:26
+TIME	0.000
+SIMULATE	AEB_CrossingCyclistIntersection
+
+TIME	36.234
+SIM_END		AEB_CrossingCyclistIntersection	36.231s	444.648m
+TIME	38.393
+SIM_START	AEB_CrossingCyclistIntersection	2021-12-21 14:58:01
+TIME	0.000
+SIMULATE	AEB_CrossingCyclistIntersection
+
+TIME	36.234
+SIM_END		AEB_CrossingCyclistIntersection	36.231s	444.648m
+TIME	44.939
+SIM_START	AEB_CrossingCyclistIntersection	2021-12-21 14:59:42
+TIME	0.000
+SIMULATE	AEB_CrossingCyclistIntersection
+
+SIM_END		AEB_CrossingCyclistIntersection	0.002s	4.20695e-009m
+SIM_START	AEB_CrossingCyclistIntersection	2021-12-21 14:59:52
+TIME	0.000
+SIMULATE	AEB_CrossingCyclistIntersection
+
+SIM_END		AEB_CrossingCyclistIntersection	0.002s	4.20695e-009m
+TIME	67.711
+SIM_START	AEB_CrossingCyclistIntersection	2021-12-21 15:11:11
+TIME	0.000
+SIMULATE	AEB_CrossingCyclistIntersection
+
+SIM_END		AEB_CrossingCyclistIntersection	0.002s	4.20695e-009m
+TIME	2.524
+SIM_START	AEB_CrossingCyclistIntersection	2021-12-21 15:11:38
+TIME	0.000
+SIMULATE	AEB_CrossingCyclistIntersection
+
+TIME	36.234
+SIM_END		AEB_CrossingCyclistIntersection	36.231s	444.648m
+TIME	420.792
+SIM_START	Scenario_test_1	2021-12-21 16:24:21
+TIME	0.000
+SIMULATE	Scenario_test_1
+
+TIME	36.234
+SIM_END		Scenario_test_1	36.231s	444.648m
+TIME	43.604
+SHUTDOWN	CarMaker quick shutdown initiated
+

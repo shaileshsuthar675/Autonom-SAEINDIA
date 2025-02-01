@@ -1,0 +1,73 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-20 17:50:32
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:50:32
+SIM_START	scenario	2022-01-20 17:50:34
+TIME	0.000
+SIMULATE	scenario
+
+TIME	25.218
+SIM_END		scenario	25.214s	301.309m
+TIME	47.172
+SIM_START	scenario	2022-01-20 17:54:48
+TIME	1.762
+WARNING		Cannot start simulation, must be in state 'Idle' (currently 'StartSim')
+TIME	0.000
+SIMULATE	scenario
+
+TIME	17.306
+ERROR		Wheelspeed too high of tire 3: +3684.836
+SIM_ABORT	scenario	17.306s	214.829m
+TIME	20.648
+SIM_START	scenario	2022-01-20 17:55:42
+TIME	0.000
+SIMULATE	scenario
+
+TIME	58.153
+SIM_END		scenario	58.149s	527.339m
+SIM_START	scenario	2022-01-20 17:56:43
+TIME	0.000
+SIMULATE	scenario
+
+TIME	16.215
+ERROR		Vehicle leaves road at about x=165.269, y=22.2833 TireNo=1
+SIM_ABORT	scenario	16.215s	224.28m
+TIME	20.642
+SIM_START	scenario	2022-01-20 17:57:45
+TIME	0.000
+SIMULATE	scenario
+
+TIME	4.777
+ERROR		Vehicle leaves road at about x=-1.28454, y=26.5992 TireNo=0
+SIM_ABORT	scenario	4.777s	60.6906m
+TIME	7.572
+SIM_START	scenario	2022-01-20 17:58:20
+TIME	0.000
+SIMULATE	scenario
+
+TIME	97.004
+SIM_END		scenario	97s	1067.34m
+TIME	117.970
+SIM_START	scenario	2022-01-20 18:03:29
+TIME	0.000
+SIMULATE	scenario
+
+TIME	24.842
+SIM_END		scenario	24.838s	361.337m
+SIM_START	scenario	2022-01-20 18:03:56
+TIME	0.000
+SIMULATE	scenario
+
+TIME	52.384
+SIM_END		scenario	52.38s	504.873m
+SIM_START	scenario	2022-01-20 18:04:51
+TIME	0.000
+SIMULATE	scenario
+
+TIME	41.948
+SIM_END		scenario	41.944s	461.012m
+SHUTDOWN	CarMaker quick shutdown initiated
+

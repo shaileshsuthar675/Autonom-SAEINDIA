@@ -1,0 +1,208 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-12 21:35:06
+TIME	0.000
+SIM_END			0s	0m
+IDLE	21:35:07
+SIM_START	unknown	2022-01-12 21:35:09
+TIME	0.000
+SIMULATE	unknown
+
+TIME	48.375
+SIM_END		unknown	48.367s	966.5m
+TIME	74.656
+SIM_START	unknown	2022-01-12 21:40:44
+TIME	0.000
+SIMULATE	unknown
+
+TIME	54.725
+SIM_END		unknown	54.721s	193.809m
+SIM_START	unknown	2022-01-12 21:41:44
+TIME	0.000
+SIMULATE	unknown
+
+TIME	90.005
+SIM_END		unknown	90s	193.81m
+TIME	0.001
+TIME	92.648
+SIM_START	unknown	2022-01-12 21:43:44
+TIME	0.000
+SIMULATE	unknown
+
+TIME	26.426
+SIM_END		unknown	26.421s	193.805m
+TIME	0.001
+SIM_START	unknown	2022-01-12 21:44:46
+TIME	0.000
+SIMULATE	unknown
+
+TIME	54.465
+SIM_END		unknown	54.461s	281.64m
+SIM_START	unknown	2022-01-12 21:45:45
+TIME	0.000
+SIMULATE	unknown
+
+TIME	15.282
+SIM_END		unknown	15.276s	233.457m
+TIME	25.596
+SIM_START	unknown	2022-01-12 21:47:48
+TIME	0.009
+ERROR		Traffic object 3: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 3 (2)
+SIM_ABORT	unknown	0s	233.457m
+SIM_START	unknown	2022-01-12 21:48:07
+TIME	0.000
+SIMULATE	unknown
+
+TIME	6.975
+SIM_END		unknown	6.971s	118.112m
+TIME	64.274
+SIM_START	unknown	2022-01-12 21:57:49
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	130.155m
+TIME	59.771
+SIM_START	unknown	2022-01-12 22:03:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	22.861
+SIM_END		unknown	22.857s	167.715m
+TIME	26.011
+SIM_START	unknown	2022-01-12 22:04:18
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	151.262m
+SIM_START	unknown	2022-01-12 22:05:08
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.030
+SIM_END		unknown	28.027s	436.454m
+TIME	30.365
+SIM_START	unknown	2022-01-12 22:06:01
+TIME	0.000
+SIMULATE	unknown
+
+TIME	24.712
+SIM_END		unknown	24.708s	436.449m
+SIM_START	unknown	2022-01-12 22:06:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	26.116
+SIM_END		unknown	26.112s	400.176m
+TIME	30.342
+SIM_START	unknown	2022-01-12 22:07:46
+TIME	0.000
+SIMULATE	unknown
+
+TIME	15.183
+SIM_END		unknown	15.179s	112.061m
+TIME	17.259
+SIM_START	unknown	2022-01-12 22:08:24
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.282
+SIM_END		unknown	30.278s	434.506m
+SIM_START	unknown	2022-01-12 22:09:06
+TIME	0.000
+SIMULATE	unknown
+
+TIME	24.856
+SIM_END		unknown	24.852s	365.184m
+SIM_START	unknown	2022-01-12 22:09:33
+TIME	0.000
+SIMULATE	unknown
+
+TIME	24.093
+SIM_END		unknown	24.089s	351.413m
+SIM_START	unknown	2022-01-12 22:10:01
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.698
+SIM_END		unknown	28.695s	434.511m
+TIME	30.712
+SIM_START	run	2022-01-12 22:10:52
+TIME	0.000
+SIMULATE	run
+
+TIME	22.653
+SIM_END		run	22.649s	325.412m
+TIME	52.194
+SIM_START	run	2022-01-12 22:16:12
+TIME	0.000
+SIMULATE	run
+
+TIME	11.086
+SIM_END		run	11.083s	117.004m
+TIME	0.001
+SIM_START	run	2022-01-12 22:24:22
+TIME	0.003
+ERROR		Traffic object 21: failed to select route -1
+ERROR		Can't get parameters of traffic object 21 (2)
+SIM_ABORT	run	0s	117.004m
+SIM_START	run	2022-01-12 22:24:40
+TIME	0.004
+ERROR		Traffic object 20: failed to select route -1
+ERROR		Can't get parameters of traffic object 20 (2)
+SIM_ABORT	run	0s	0m
+SIM_START	run	2022-01-12 22:24:58
+TIME	0.003
+ERROR		Traffic object 20: failed to select route -1
+ERROR		Can't get parameters of traffic object 20 (2)
+SIM_ABORT	run	0s	0m
+SIM_START	run	2022-01-12 22:25:10
+TIME	0.003
+ERROR		Traffic object 20: failed to select route -1
+ERROR		Can't get parameters of traffic object 20 (2)
+SIM_ABORT	run	0s	0m
+SIM_START	run	2022-01-12 22:25:17
+TIME	0.003
+ERROR		Traffic object 20: failed to select route -1
+ERROR		Can't get parameters of traffic object 20 (2)
+SIM_ABORT	run	0s	0m
+TIME	0.001
+SIM_START	run	2022-01-12 22:27:24
+TIME	0.004
+ERROR		Traffic object 34: failed to select route -1
+ERROR		Can't get parameters of traffic object 34 (2)
+SIM_ABORT	run	0s	0m
+TIME	5.868
+SIM_START	run	2022-01-12 22:28:23
+TIME	0.000
+SIMULATE	run
+
+TIME	11.087
+SIM_END		run	11.083s	116.993m
+TIME	35.937
+SIM_START	run	2022-01-12 22:32:47
+TIME	0.000
+SIMULATE	run
+
+TIME	11.087
+SIM_END		run	11.083s	116.993m
+TIME	14.288
+SIM_START	run	2022-01-12 22:33:33
+TIME	0.000
+SIMULATE	run
+
+TIME	11.086
+SIM_END		run	11.083s	116.993m
+TIME	14.394
+SIM_START	run	2022-01-12 22:34:19
+TIME	0.000
+SIMULATE	run
+
+TIME	11.086
+SIM_END		run	11.083s	116.993m
+TIME	15.296
+SHUTDOWN	CarMaker quick shutdown initiated
+

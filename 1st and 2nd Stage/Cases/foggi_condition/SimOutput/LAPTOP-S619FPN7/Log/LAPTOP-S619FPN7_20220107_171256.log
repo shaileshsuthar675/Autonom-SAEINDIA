@@ -1,0 +1,241 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-07 17:12:56
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:12:57
+SIM_START	dmage_road	2022-01-07 17:12:58
+TIME	0.013
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+TIME	6.329
+SIM_START	dmage_road	2022-01-07 17:14:01
+TIME	0.011
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+TIME	3.979
+SIM_START	dmage_road	2022-01-07 17:14:41
+TIME	0.011
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+SIM_START	dmage_road	2022-01-07 17:14:43
+TIME	0.014
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+TIME	6.135
+SIM_START	dmage_road	2022-01-07 17:15:45
+TIME	0.011
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+TIME	5.068
+SIM_START	dmage_road	2022-01-07 17:16:35
+TIME	0.014
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+TIME	2.366
+SIM_START	dmage_road	2022-01-07 17:16:59
+TIME	0.011
+ERROR		Traffic object 0: failed to select route -1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+TIME	10.935
+SIM_START	dmage_road	2022-01-07 17:18:48
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	52.259
+SIM_START	dmage_road	2022-01-07 17:22:01
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.748
+SIM_END		dmage_road	36.744s	497.683m
+TIME	46.523
+SIM_START	dmage_road	2022-01-07 17:24:17
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.748
+SIM_END		dmage_road	36.744s	497.683m
+TIME	41.820
+SIM_START	dmage_road	2022-01-07 17:25:47
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.748
+SIM_END		dmage_road	36.744s	497.683m
+TIME	43.286
+SIM_START	dmage_road	2022-01-07 17:27:32
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	51.477
+SIM_START	dmage_road	2022-01-07 17:30:38
+TIME	0.013
+ERROR		Traffic object 0: Unknown lane in manoever 1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	497.683m
+SIM_START	dmage_road	2022-01-07 17:30:57
+TIME	0.011
+ERROR		Traffic object 0: Unknown lane in manoever 1
+ERROR		Can't get parameters of traffic object 0 (2)
+SIM_ABORT	dmage_road	0s	0m
+TIME	5.829
+SIM_START	dmage_road	2022-01-07 17:31:55
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.748
+SIM_END		dmage_road	36.744s	497.683m
+TIME	52.543
+SIM_START	dmage_road	2022-01-07 17:35:11
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	69.555
+SIM_START	dmage_road	2022-01-07 17:41:19
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	46.655
+SIM_START	dmage_road	2022-01-07 17:43:36
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	38.761
+SIM_START	dmage_road	2022-01-07 17:44:35
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	34.997
+SIM_END		dmage_road	34.993s	449.043m
+TIME	39.062
+SIM_START	dmage_road	2022-01-07 17:45:52
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	110.024
+SIM_START	dmage_road	2022-01-07 17:58:20
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	96.900
+SIM_START	dmage_road	2022-01-07 18:08:37
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	0.001
+SIM_START	dmage_road	2022-01-07 18:09:39
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	175.703
+SIM_START	dmage_road	2022-01-07 18:33:05
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	36.747
+SIM_END		dmage_road	36.744s	497.683m
+TIME	73.532
+SIM_START	dmage_road	2022-01-07 18:39:28
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	40.069
+SIM_END		dmage_road	40.066s	497.664m
+TIME	93.917
+SIM_START	dmage_road	2022-01-07 18:48:44
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	40.070
+SIM_END		dmage_road	40.066s	497.664m
+TIME	0.001
+TIME	50.375
+SIM_START	dmage_road	2022-01-07 18:50:46
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	40.069
+SIM_END		dmage_road	40.066s	497.664m
+TIME	0.001
+SIM_START	dmage_road	2022-01-07 18:51:43
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	40.069
+SIM_END		dmage_road	40.066s	497.664m
+SIM_START	dmage_road	2022-01-07 18:52:05
+TIME	0.000
+SIMULATE	dmage_road
+
+TIME	20.001
+		LaneChange in maneuver 2 ignored (rv=5)
+TIME	40.069
+SIM_END		dmage_road	40.066s	497.664m
+TIME	285.287
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,9 @@
+newmtl Terrain_Area_0
+Ns 0.0
+d 1.0
+Ka 0.5 0.5 0.5
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd 3D/Buildings/Highrise_CHN_01_31St_02_Flat.jpg
+MatID dirt-earth
+

@@ -1,0 +1,163 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-19 18:09:45
+TIME	0.000
+SIM_END			0s	0m
+IDLE	18:09:46
+SIM_START	unknown	2022-01-19 18:09:48
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.134
+SIM_END		unknown	30.13s	359.095m
+TIME	35.196
+SIM_START	unknown	2022-01-19 18:11:11
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.546
+SIM_END		unknown	30.543s	359.959m
+TIME	64.278
+SIM_START	unknown	2022-01-19 18:17:22
+TIME	0.031
+WARNING		IPGDriver: LatInc too big (t=0.000, s=259.000m, LatInc=30.646deg, ay_LatInc=-1.460m/ss) (1) (id=200)
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.629
+ERROR		Roll angle too high (80.12 deg)
+SIM_ABORT	unknown	30.629s	276.533m
+TIME	33.202
+SIM_START	unknown	2022-01-19 18:18:20
+TIME	0.018
+WARNING		IPGDriver: LatInc too big (t=0.000, s=259.000m, LatInc=30.646deg, ay_LatInc=-1.460m/ss) (1) (id=200)
+TIME	0.000
+SIMULATE	unknown
+
+TIME	45.004
+SIM_END		unknown	45s	284.858m
+TIME	47.122
+SIM_START	unknown	2022-01-19 18:19:17
+TIME	0.017
+WARNING		IPGDriver: LatInc too big (t=0.000, s=259.000m, LatInc=30.646deg, ay_LatInc=-1.460m/ss) (1) (id=200)
+TIME	0.000
+SIMULATE	unknown
+
+TIME	58.003
+SIM_END		unknown	58s	266.72m
+TIME	99.862
+SIM_START	unknown	2022-01-19 18:26:59
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.710
+ERROR		Vehicle leaves road at about x=63.9152, y=5.10127 TireNo=2
+SIM_ABORT	unknown	9.71s	64.159m
+TIME	12.076
+SIM_START	unknown	2022-01-19 18:27:37
+TIME	0.000
+SIMULATE	unknown
+
+TIME	18.579
+SIM_END		unknown	18.576s	16.535m
+SIM_START	unknown	2022-01-19 18:27:59
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	166.304m
+TIME	36.889
+SIM_START	unknown	2022-01-19 18:29:39
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.004
+SIM_END		unknown	30s	168.904m
+TIME	0.001
+SIM_START	unknown	2022-01-19 18:31:32
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.428
+ERROR		Vehicle leaves road at about x=39.7421, y=-4.70135 TireNo=1
+SIM_ABORT	unknown	9.428s	36.6612m
+TIME	27.855
+SIM_START	unknown	2022-01-19 18:34:49
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	173.502m
+TIME	42.318
+SIM_START	unknown	2022-01-19 18:37:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	173.44m
+TIME	42.015
+SIM_START	unknown	2022-01-19 18:39:59
+TIME	0.011
+WARNING		IPGDriver: LatInc too big (t=0.000, s=927.000m, LatInc=18.248deg, ay_LatInc=-0.213m/ss) (1) (id=200)
+WARNING		IPGDriver: LatInc too big (t=0.000, s=928.000m, LatInc=20.748deg, ay_LatInc=-0.642m/ss) (1) (id=200)
+WARNING		IPGDriver: LatInc too big (t=0.000, s=929.000m, LatInc=23.167deg, ay_LatInc=-1.059m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=930.000m, LatInc=25.502deg, ay_LatInc=-1.466m/ss) (1) (id=200)
+ERROR		Too many warnings
+ERROR		IPGDriver: LatInc too big (t=0.000, s=931.000m, LatInc=24.110deg, ay_LatInc=-1.223m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=932.000m, LatInc=20.829deg, ay_LatInc=-0.656m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=933.000m, LatInc=17.398deg, ay_LatInc=-0.068m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2108.000m, LatInc=17.753deg, ay_LatInc=-0.128m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2109.000m, LatInc=20.267deg, ay_LatInc=-0.559m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2110.000m, LatInc=22.703deg, ay_LatInc=-0.979m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2111.000m, LatInc=25.054deg, ay_LatInc=-1.387m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2112.000m, LatInc=24.731deg, ay_LatInc=-1.331m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2113.000m, LatInc=21.480deg, ay_LatInc=-0.768m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2114.000m, LatInc=18.077deg, ay_LatInc=-0.184m/ss) (1) (id=200)
+SIM_ABORT	unknown	0s	173.44m
+TIME	2.370
+SIM_START	unknown	2022-01-19 18:40:23
+TIME	0.015
+WARNING		IPGDriver: LatInc too big (t=0.000, s=927.000m, LatInc=18.248deg, ay_LatInc=-0.213m/ss) (1) (id=200)
+WARNING		IPGDriver: LatInc too big (t=0.000, s=928.000m, LatInc=20.748deg, ay_LatInc=-0.642m/ss) (1) (id=200)
+WARNING		IPGDriver: LatInc too big (t=0.000, s=929.000m, LatInc=23.167deg, ay_LatInc=-1.059m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=930.000m, LatInc=25.502deg, ay_LatInc=-1.466m/ss) (1) (id=200)
+ERROR		Too many warnings
+ERROR		IPGDriver: LatInc too big (t=0.000, s=931.000m, LatInc=24.110deg, ay_LatInc=-1.223m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=932.000m, LatInc=20.829deg, ay_LatInc=-0.656m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=933.000m, LatInc=17.398deg, ay_LatInc=-0.068m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2108.000m, LatInc=17.753deg, ay_LatInc=-0.128m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2109.000m, LatInc=20.267deg, ay_LatInc=-0.559m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2110.000m, LatInc=22.703deg, ay_LatInc=-0.979m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2111.000m, LatInc=25.054deg, ay_LatInc=-1.387m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2112.000m, LatInc=24.731deg, ay_LatInc=-1.331m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2113.000m, LatInc=21.480deg, ay_LatInc=-0.768m/ss) (1) (id=200)
+ERROR		IPGDriver: LatInc too big (t=0.000, s=2114.000m, LatInc=18.077deg, ay_LatInc=-0.184m/ss) (1) (id=200)
+SIM_ABORT	unknown	0s	0m
+TIME	14.273
+SIM_START	unknown	2022-01-19 18:42:45
+TIME	0.006
+WARNING		IPGDriver: LatInc too big (t=0.000, s=668.000m, LatInc=18.390deg, ay_LatInc=-0.237m/ss) (1) (id=200)
+WARNING		IPGDriver: LatInc too big (t=0.000, s=669.000m, LatInc=20.754deg, ay_LatInc=-0.643m/ss) (1) (id=200)
+WARNING		IPGDriver: LatInc too big (t=0.000, s=670.000m, LatInc=19.154deg, ay_LatInc=-0.368m/ss) (1) (id=200)
+TIME	0.000
+SIMULATE	unknown
+
+TIME	21.389
+SIM_END		unknown	21.385s	116.453m
+SIM_START	unknown	2022-01-19 18:43:19
+TIME	0.000
+SIMULATE	unknown
+
+TIME	21.887
+SIM_END		unknown	21.883s	391.132m
+TIME	25.083
+SIM_START	unknown	2022-01-19 18:44:16
+TIME	0.000
+SIMULATE	unknown
+
+TIME	21.886
+SIM_END		unknown	21.883s	391.132m
+TIME	88.355
+SHUTDOWN	CarMaker quick shutdown initiated
+

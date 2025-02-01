@@ -1,0 +1,418 @@
+Tree 98.820 12.121 0.536 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 98.895 8.538 0.592 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 98.985 5.009 0.650 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 101.424 10.250 0.426 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 103.077 12.554 0.282 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 102.750 7.468 0.476 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 103.066 4.787 0.525 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 105.307 9.286 0.317 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 106.277 9.040 0.306 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 107.777 10.777 0.195 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 108.695 10.340 0.196 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 108.220 4.703 0.386 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 108.788 2.960 0.410 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 110.162 4.222 0.349 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 112.718 9.896 0.111 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 112.271 4.367 0.293 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 113.970 6.844 0.179 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 114.078 3.382 0.269 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 116.210 7.476 0.123 107.9 1.24 1.15 Textures/Trees/Oak.png
+Tree 115.287 0.167 0.337 58.7 0.95 0.94 Textures/Trees/Oak.png
+Tree 123.529 34.330 0.670 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 125.386 37.396 1.053 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 127.228 40.407 1.436 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 126.720 34.648 0.778 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 126.999 31.827 0.478 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 129.259 36.395 1.042 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 130.874 38.559 1.305 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 130.565 33.541 0.735 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 131.527 33.270 0.726 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 131.958 31.015 0.487 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 132.972 30.935 0.502 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 135.379 36.054 1.091 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 136.743 37.280 1.228 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 137.301 35.500 1.050 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 136.677 29.308 0.441 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 139.055 34.319 0.975 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 139.288 31.325 0.710 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 141.112 34.270 1.000 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 140.912 29.658 0.582 107.9 1.24 1.15 Textures/Trees/Oak.png
+Tree 143.767 36.449 1.228 58.7 0.95 0.94 Textures/Trees/Oak.png
+Tree 143.161 30.325 0.666 124.2 1.13 0.99 Textures/Trees/Oak.png
+Tree 133.603 0.690 0.164 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 133.679 -2.894 0.214 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 133.768 -6.422 0.256 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 136.208 -1.181 0.162 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 137.861 1.123 0.109 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 137.533 -3.963 0.201 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 137.850 -6.645 0.225 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 140.091 -2.145 0.165 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 141.060 -2.391 0.157 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 142.561 -0.654 0.103 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 143.479 -1.092 0.101 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 143.004 -6.728 0.176 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 143.572 -8.471 0.185 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 144.946 -7.209 0.158 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 147.501 -1.535 0.076 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 147.055 -7.064 0.145 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 148.754 -4.587 0.102 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 148.862 -8.049 0.147 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 150.994 -3.955 0.085 107.9 1.24 1.15 Textures/Trees/Oak.png
+Tree 150.071 -11.265 0.180 58.7 0.95 0.94 Textures/Trees/Oak.png
+Tree 152.608 -5.657 0.105 124.2 1.13 0.99 Textures/Trees/Oak.png
+Tree 159.668 24.680 0.629 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 161.524 27.746 0.984 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 163.367 30.757 1.242 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 162.859 24.998 0.711 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 163.138 22.176 0.498 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 165.397 26.744 0.940 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 167.012 28.909 1.158 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 166.703 23.891 0.755 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 167.666 23.620 0.748 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 168.097 21.365 0.538 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 169.111 21.285 0.547 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 171.518 26.404 1.027 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 172.881 27.629 1.171 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 173.440 25.849 0.992 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 172.816 19.658 0.395 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 175.194 24.669 0.889 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 175.427 21.675 0.612 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 177.251 24.619 0.919 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 177.051 20.007 0.541 107.9 1.24 1.15 Textures/Trees/Oak.png
+Tree 179.906 26.799 1.191 58.7 0.95 0.94 Textures/Trees/Oak.png
+Tree 179.300 20.674 0.685 124.2 1.13 0.99 Textures/Trees/Oak.png
+Tree 180.398 20.909 0.733 81.5 1.21 1.37 Textures/Trees/Oak.png
+Tree 182.913 26.430 1.207 131.7 1.03 0.68 Textures/Trees/Oak.png
+Tree 181.635 17.797 0.508 51.8 1.17 1.19 Textures/Trees/Oak.png
+Tree 184.425 24.345 1.055 35.8 0.88 0.93 Textures/Trees/Oak.png
+Tree 169.088 -10.405 0.108 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 169.163 -13.989 0.136 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 169.253 -17.518 0.156 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 171.693 -12.276 0.115 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 173.345 -9.972 0.084 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 173.018 -15.058 0.130 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 173.334 -17.740 0.145 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 175.575 -13.240 0.106 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 176.545 -13.486 0.108 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 178.045 -11.749 0.091 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 178.963 -12.187 0.097 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 178.488 -17.823 0.133 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 179.057 -19.566 0.141 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 180.430 -18.304 0.130 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 182.986 -12.630 0.081 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 182.540 -18.159 0.119 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 184.238 -15.682 0.095 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 184.346 -19.145 0.119 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 186.478 -15.050 0.079 107.9 1.24 1.15 Textures/Trees/Oak.png
+Tree 185.555 -22.360 0.141 58.7 0.95 0.94 Textures/Trees/Oak.png
+Tree 188.093 -16.752 0.089 124.2 1.13 0.99 Textures/Trees/Oak.png
+Tree 188.927 -17.504 0.093 81.5 1.21 1.37 Textures/Trees/Oak.png
+Tree 188.344 -23.544 0.140 131.7 1.03 0.68 Textures/Trees/Oak.png
+Tree 191.553 -15.428 0.065 51.8 1.17 1.19 Textures/Trees/Oak.png
+Tree 190.695 -22.494 0.128 35.8 0.88 0.93 Textures/Trees/Oak.png
+Tree 193.438 -16.122 0.073 107.2 1.43 1.02 Textures/Trees/Oak.png
+Tree 192.235 -24.475 0.133 139.8 0.91 0.88 Textures/Trees/Oak.png
+Tree 215.113 11.031 0.340 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 216.113 14.473 0.594 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 217.113 17.858 0.845 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 218.113 12.164 0.455 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 219.113 9.511 0.291 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 220.113 14.508 0.623 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 221.113 17.016 0.777 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 222.113 12.090 0.439 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 223.113 12.077 0.425 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 242.636 11.455 0.456 98.4 1.03 0.86
+Tree 243.636 14.897 0.714 53.9 1.02 1.03
+Tree 244.636 18.282 0.997 136.7 1.22 0.86
+Tree 245.636 12.588 0.518 87.1 0.91 1.04
+Tree 246.636 9.935 0.348 154.2 1.28 1.44
+Tree 247.636 14.932 0.694 98.6 1.16 1.43
+Tree 248.636 17.440 0.889 127.3 0.80 1.05
+Tree 249.636 12.514 0.559 145.2 1.31 1.04
+Tree 250.636 12.501 0.558 61.7 1.19 1.04
+Tree 251.636 10.434 0.418 111.8 0.91 0.74
+Tree 252.636 10.620 0.424 74.8 1.45 0.89
+Tree 253.636 16.187 0.835 18.2 0.71 1.21
+Tree 254.636 17.724 0.993 107.6 0.94 1.30
+Tree 255.636 16.149 0.870 45.4 1.36 0.72
+Tree 256.636 10.007 0.362 75.5 0.89 1.26
+Tree 257.636 15.463 0.847 24.3 1.15 0.92
+Tree 258.636 12.631 0.624 61.3 0.69 0.81
+Tree 259.636 15.947 0.935 99.0 1.33 1.32
+Tree 260.636 11.441 0.539 107.9 1.24 1.15
+Tree 261.636 18.740 1.182 58.7 0.95 0.94
+Tree 253.036 -14.502 0.171 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 254.036 -17.944 0.195 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 255.036 -21.329 0.193 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 256.036 -15.635 0.189 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 257.036 -12.982 0.165 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 258.036 -17.979 0.199 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 259.036 -20.487 0.209 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 260.036 -15.561 0.185 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 261.036 -15.548 0.194 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 262.036 -13.481 0.186 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 263.036 -13.667 0.189 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 264.036 -19.234 0.235 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 265.036 -20.771 0.243 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 266.036 -19.196 0.247 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 267.036 -13.054 0.193 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 268.036 -18.510 0.246 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 269.036 -15.678 0.224 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 279.484 11.935 0.644 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 280.484 15.377 0.971 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 281.484 18.762 1.300 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 282.484 13.068 0.710 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 283.484 10.415 0.443 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 284.484 15.412 0.909 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 285.484 17.920 1.160 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 286.484 12.994 0.662 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 287.484 12.981 0.671 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 288.484 10.914 0.512 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 289.484 11.100 0.537 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 290.484 16.667 0.998 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 291.484 18.204 1.171 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 292.484 16.629 1.024 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 293.484 10.487 0.481 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 294.484 15.943 0.996 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 295.484 13.111 0.717 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 296.484 16.427 1.091 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 297.484 11.921 0.649 107.9 1.24 1.15 Textures/Trees/Oak.png
+Tree 298.484 19.220 1.438 58.7 0.95 0.94 Textures/Trees/Oak.png
+Tree 288.115 -19.696 0.317 98.4 1.03 0.86
+Tree 289.115 -16.254 0.279 53.9 1.02 1.03
+Tree 290.115 -12.869 0.243 136.7 1.22 0.86
+Tree 291.115 -18.563 0.308 87.1 0.91 1.04
+Tree 292.115 -21.216 0.338 154.2 1.28 1.44
+Tree 293.115 -16.219 0.297 98.6 1.16 1.43
+Tree 294.115 -13.711 0.256 127.3 0.80 1.05
+Tree 295.115 -18.637 0.329 145.2 1.31 1.04
+Tree 296.115 -18.650 0.331 61.7 1.19 1.04
+Tree 297.115 -20.717 0.347 111.8 0.91 0.74
+Tree 298.115 -20.531 0.348 74.8 1.45 0.89
+Tree 299.115 -14.964 0.281 18.2 0.71 1.21
+Tree 300.115 -13.427 0.261 107.6 0.94 1.30
+Tree 301.115 -15.002 0.286 45.4 1.36 0.72
+Tree 302.115 -21.144 0.361 75.5 0.89 1.26
+Tree 303.115 -15.688 0.307 24.3 1.15 0.92
+Tree 304.115 -18.520 0.345 61.3 0.69 0.81
+Tree 305.115 -15.204 0.295 99.0 1.33 1.32
+Tree 306.115 -19.710 0.362 107.9 1.24 1.15
+Tree 317.226 12.325 0.714 98.4 1.03 0.86
+Tree 318.226 15.767 1.122 53.9 1.02 1.03
+Tree 319.226 19.152 1.544 136.7 1.22 0.86
+Tree 320.226 13.458 0.917 87.1 0.91 1.04
+Tree 321.226 10.805 0.601 154.2 1.28 1.44
+Tree 322.226 15.802 1.126 98.6 1.16 1.43
+Tree 323.226 18.310 1.417 127.3 0.80 1.05
+Tree 324.226 13.384 0.807 145.2 1.31 1.04
+Tree 325.226 13.371 0.790 61.7 1.19 1.04
+Tree 326.226 11.304 0.595 111.8 0.91 0.74
+Tree 327.226 11.490 0.625 74.8 1.45 0.89
+Tree 328.226 17.057 1.191 18.2 0.71 1.21
+Tree 329.226 18.594 1.367 107.6 0.94 1.30
+Tree 330.226 17.019 1.180 45.4 1.36 0.72
+Tree 331.226 10.877 0.594 75.5 0.89 1.26
+Tree 332.226 16.333 1.133 24.3 1.15 0.92
+Tree 333.226 13.501 0.839 61.3 0.69 0.81
+Tree 334.226 16.817 1.242 99.0 1.33 1.32
+Tree 324.714 -13.260 0.287 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 325.714 -16.702 0.374 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 326.714 -20.087 0.430 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 327.714 -14.393 0.332 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 328.714 -11.740 0.266 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 329.714 -16.737 0.375 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 330.714 -19.245 0.425 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 331.714 -14.319 0.343 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 332.714 -14.306 0.344 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 333.714 -12.239 0.287 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 334.714 -12.425 0.290 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 335.714 -17.992 0.433 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 336.714 -19.529 0.464 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 337.714 -17.954 0.434 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 338.714 -11.812 0.292 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 339.714 -17.268 0.423 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 340.714 -14.436 0.368 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 341.714 -17.752 0.441 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 353.047 13.069 0.829 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 354.047 16.511 1.255 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 355.047 19.896 1.729 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 356.047 14.202 1.000 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 357.047 11.549 0.704 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 358.047 16.546 1.357 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 359.047 19.054 1.713 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 360.047 14.128 1.114 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 361.047 14.115 1.083 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 362.047 12.048 0.799 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 363.047 12.234 0.791 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 364.047 17.801 1.498 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 365.047 19.338 1.699 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 366.047 17.763 1.458 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 367.047 11.621 0.702 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 368.047 17.077 1.330 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 369.047 14.245 1.005 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 370.047 17.561 1.368 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 360.765 -19.228 0.593 98.4 1.03 0.86
+Tree 361.765 -15.786 0.498 53.9 1.02 1.03
+Tree 362.765 -12.401 0.379 136.7 1.22 0.86
+Tree 363.765 -18.095 0.582 87.1 0.91 1.04
+Tree 364.765 -20.748 0.676 154.2 1.28 1.44
+Tree 365.765 -15.751 0.519 98.6 1.16 1.43
+Tree 366.765 -13.243 0.434 127.3 0.80 1.05
+Tree 367.765 -18.169 0.621 145.2 1.31 1.04
+Tree 368.765 -18.182 0.630 61.7 1.19 1.04
+Tree 369.765 -20.249 0.707 111.8 0.91 0.74
+Tree 370.765 -20.063 0.714 74.8 1.45 0.89
+Tree 371.765 -14.496 0.544 18.2 0.71 1.21
+Tree 372.765 -12.959 0.477 107.6 0.94 1.30
+Tree 373.765 -14.534 0.553 45.4 1.36 0.72
+Tree 374.765 -20.676 0.816 75.5 0.89 1.26
+Tree 375.765 -15.220 0.602 24.3 1.15 0.92
+Tree 376.765 -18.052 0.750 61.3 0.69 0.81
+Tree 377.765 -14.736 0.618 99.0 1.33 1.32
+Tree 378.765 -19.242 0.837 107.9 1.24 1.15
+Tree 379.765 -11.943 0.516 58.7 0.95 0.94
+Tree 380.765 -18.016 0.814 124.2 1.13 0.99
+Tree 381.765 -17.506 0.806 81.5 1.21 1.37
+Tree 382.765 -11.521 0.491 131.7 1.03 0.68
+Tree 383.765 -20.191 0.963 51.8 1.17 1.19
+Tree 388.083 9.664 0.572 98.4 1.03 0.86
+Tree 389.083 13.106 0.992 53.9 1.02 1.03
+Tree 390.083 16.491 1.403 136.7 1.22 0.86
+Tree 391.083 10.797 0.738 87.1 0.91 1.04
+Tree 392.083 8.144 0.413 154.2 1.28 1.44
+Tree 393.083 13.141 1.015 98.6 1.16 1.43
+Tree 394.083 15.649 1.388 127.3 0.80 1.05
+Tree 395.083 10.723 0.718 145.2 1.31 1.04
+Tree 396.083 10.710 0.735 61.7 1.19 1.04
+Tree 397.083 8.643 0.494 111.8 0.91 0.74
+Tree 398.083 8.829 0.536 74.8 1.45 0.89
+Tree 399.083 14.396 1.406 18.2 0.71 1.21
+Tree 400.083 15.933 1.676 107.6 0.94 1.30
+Tree 401.083 14.358 1.414 45.4 1.36 0.72
+Tree 402.083 8.216 0.459 75.5 0.89 1.26
+Tree 403.083 13.672 1.263 24.3 1.15 0.92
+Tree 404.083 10.840 0.810 61.3 0.69 0.81
+Tree 405.083 14.156 1.336 99.0 1.33 1.32
+Tree 406.083 9.650 0.653 107.9 1.24 1.15
+Tree 407.083 16.949 1.861 58.7 0.95 0.94
+Tree 408.083 10.876 0.914 124.2 1.13 0.99
+Tree 409.083 11.386 1.030 81.5 1.21 1.37
+Tree 410.083 17.371 1.977 131.7 1.03 0.68
+Tree 411.083 8.701 0.707 51.8 1.17 1.19
+Tree 412.083 15.748 1.842 35.8 0.88 0.93
+Tree 413.083 8.883 0.747 107.2 1.43 1.02
+Tree 414.083 17.263 2.365 139.8 0.91 0.88
+Tree 415.083 11.222 1.245 44.0 1.06 1.43
+Tree 205.337 -20.134 0.041 98.4 1.03 0.86
+Tree 204.182 -23.527 0.072 53.9 1.02 1.03
+Tree 203.060 -26.874 0.099 136.7 1.22 0.86
+Tree 207.145 -22.783 0.056 87.1 0.91 1.04
+Tree 224.657 -9.678 0.000 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 226.266 -9.123 0.001 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 227.862 -8.588 0.002 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 227.374 -11.027 0.003 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 227.585 -12.470 0.004 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 229.550 -11.406 0.006 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 230.945 -11.158 0.009 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 230.634 -13.346 0.009 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 223.570 -33.625 0.048 98.4 1.03 0.86
+Tree 222.415 -37.018 0.078 53.9 1.02 1.03
+Tree 221.292 -40.364 0.104 136.7 1.22 0.86
+Tree 225.378 -36.273 0.066 87.1 0.91 1.04
+Tree 227.718 -34.674 0.042 154.2 1.28 1.44
+Tree 225.671 -39.341 0.080 98.6 1.16 1.43
+Tree 225.052 -41.969 0.093 127.3 0.80 1.05
+Tree 228.697 -38.507 0.063 145.2 1.31 1.04
+Tree 229.523 -39.070 0.062 61.7 1.19 1.04
+Tree 231.527 -37.951 0.045 111.8 0.91 0.74
+Tree 232.240 -38.676 0.044 74.8 1.45 0.89
+Tree 229.866 -43.811 0.088 18.2 0.71 1.21
+Tree 229.804 -45.643 0.101 107.6 0.94 1.30
+Tree 231.526 -44.926 0.084 45.4 1.36 0.72
+Tree 235.868 -40.469 0.032 75.5 0.89 1.26
+Tree 233.558 -45.511 0.074 24.3 1.15 0.92
+Tree 236.002 -43.765 0.052 61.3 0.69 0.81
+Tree 234.919 -47.055 0.076 99.0 1.33 1.32
+Tree 238.323 -43.937 0.047 107.9 1.24 1.15
+Tree 234.955 -50.490 0.109 58.7 0.95 0.94
+Tree 239.258 -46.089 0.060 124.2 1.13 0.99
+Tree 239.784 -47.081 0.066 81.5 1.21 1.37
+Tree 250.455 -25.371 0.113 98.4 1.03 0.86 Textures/Trees/Oak.png
+Tree 253.248 -23.125 0.169 53.9 1.02 1.03 Textures/Trees/Oak.png
+Tree 256.009 -20.926 0.199 136.7 1.22 0.86 Textures/Trees/Oak.png
+Tree 253.562 -26.164 0.121 87.1 0.91 1.04 Textures/Trees/Oak.png
+Tree 252.860 -28.911 0.072 154.2 1.28 1.44 Textures/Trees/Oak.png
+Tree 256.545 -25.391 0.149 98.6 1.16 1.43 Textures/Trees/Oak.png
+Tree 258.803 -23.910 0.187 127.3 0.80 1.05 Textures/Trees/Oak.png
+Tree 256.796 -28.519 0.121 145.2 1.31 1.04 Textures/Trees/Oak.png
+Tree 257.608 -29.103 0.125 61.7 1.19 1.04 Textures/Trees/Oak.png
+Tree 257.242 -31.369 0.087 111.8 0.91 0.74 Textures/Trees/Oak.png
+Tree 258.167 -31.791 0.097 74.8 1.45 0.89 Textures/Trees/Oak.png
+Tree 262.180 -27.804 0.187 18.2 0.71 1.21 Textures/Trees/Oak.png
+Tree 263.881 -27.119 0.211 107.6 0.94 1.30 Textures/Trees/Oak.png
+Tree 263.796 -28.982 0.193 45.4 1.36 0.72 Textures/Trees/Oak.png
+Tree 261.093 -34.587 0.094 75.5 0.89 1.26 Textures/Trees/Oak.png
+Tree 265.041 -30.692 0.190 24.3 1.15 0.92 Textures/Trees/Oak.png
+Tree 264.236 -33.585 0.143 61.3 0.69 0.81 Textures/Trees/Oak.png
+Tree 266.957 -31.442 0.196 99.0 1.33 1.32 Textures/Trees/Oak.png
+Tree 265.192 -35.707 0.114 107.9 1.24 1.15 Textures/Trees/Oak.png
+Tree 270.197 -30.301 0.223 58.7 0.95 0.94 Textures/Trees/Oak.png
+Tree 267.533 -35.850 0.131 124.2 1.13 0.99 Textures/Trees/Oak.png
+Tree 268.645 -36.005 0.140 81.5 1.21 1.37 Textures/Trees/Oak.png
+Tree 272.897 -31.677 0.226 131.7 1.03 0.68 Textures/Trees/Oak.png
+Tree 268.743 -39.352 0.093 51.8 1.17 1.19 Textures/Trees/Oak.png
+Tree 273.604 -34.153 0.196 35.8 0.88 0.93 Textures/Trees/Oak.png
+Tree 270.486 -40.350 0.092 107.2 1.43 1.02 Textures/Trees/Oak.png
+Tree 276.112 -34.059 0.212 139.8 0.91 0.88 Textures/Trees/Oak.png
+Tree 273.466 -39.581 0.124 44.0 1.06 1.43 Textures/Trees/Oak.png
+Tree 277.180 -36.020 0.192 93.6 0.93 0.99 Textures/Trees/Oak.png
+Tree 276.514 -38.715 0.152 148.6 0.78 0.69 Textures/Trees/Oak.png
+Tree 277.220 -39.450 0.143 86.9 0.81 1.49 Textures/Trees/Oak.png
+Tree 278.082 -39.962 0.140 114.6 1.16 0.98 Textures/Trees/Oak.png
+Tree 280.935 -37.631 0.184 168.5 0.93 1.14 Textures/Trees/Oak.png
+Tree 278.489 -42.869 0.104 121.5 1.07 0.98 Textures/Trees/Oak.png
+Tree 280.566 -41.646 0.131 91.5 0.75 1.32 Textures/Trees/Oak.png
+Tree 280.816 -43.032 0.115 85.5 1.21 0.67 Textures/Trees/Oak.png
+Tree 280.404 -45.364 0.083 155.2 0.90 1.33 Textures/Trees/Oak.png
+Tree 284.039 -41.916 0.148 107.6 0.87 0.74 Textures/Trees/Oak.png
+Tree 285.856 -41.064 0.170 34.3 0.71 0.75 Textures/Trees/Oak.png
+Tree 283.430 -46.272 0.089 40.8 1.49 1.23 Textures/Trees/Oak.png
+Tree 286.698 -43.348 0.146 17.3 1.41 0.87 Textures/Trees/Oak.png
+Tree 287.284 -44.256 0.137 150.5 1.31 1.09 Textures/Trees/Oak.png
+Tree 286.435 -47.212 0.097 71.1 0.76 1.02 Textures/Trees/Oak.png
+Tree 285.751 -49.931 0.062 140.3 0.73 1.42 Textures/Trees/Oak.png
+Tree 286.691 -50.332 0.065 147.8 0.85 1.42 Textures/Trees/Oak.png
+Tree 288.014 -50.186 0.077 27.5 1.00 0.92 Textures/Trees/Oak.png
+Tree 292.451 -45.594 0.149 59.6 1.07 1.49 Textures/Trees/Oak.png
+Tree 290.101 -50.692 0.087 129.2 0.68 1.01 Textures/Trees/Oak.png
+Tree 292.637 -48.814 0.114 44.7 1.22 0.73 Textures/Trees/Oak.png
+Tree 293.519 -49.298 0.112 36.1 1.46 0.90 Textures/Trees/Oak.png
+Tree 295.802 -47.781 0.140 63.8 1.39 1.11 Textures/Trees/Oak.png
+Tree 295.461 -50.012 0.116 61.7 1.49 0.85 Textures/Trees/Oak.png
+Tree 294.803 -52.694 0.087 20.2 0.95 0.76 Textures/Trees/Oak.png
+Tree 294.372 -55.053 0.072 155.6 0.67 1.36 Textures/Trees/Oak.png
+Tree 294.357 -56.819 0.064 90.3 1.16 1.30 Textures/Trees/Oak.png
+Tree 295.790 -56.515 0.079 79.9 1.25 1.30 Textures/Trees/Oak.png
+Tree 297.844 -55.326 0.101 107.8 1.23 0.72 Textures/Trees/Oak.png
+Tree 297.435 -57.653 0.079 63.8 1.33 1.31 Textures/Trees/Oak.png
+Tree 298.142 -58.387 0.077 102.2 0.87 1.34 Textures/Trees/Oak.png
+Tree 302.532 -53.860 0.153 128.6 1.28 0.97 Textures/Trees/Oak.png
+Tree 300.314 -58.772 0.106 80.9 1.12 1.23 Textures/Trees/Oak.png
+GeoObj 107.085 42.969 1.663 0.00 0.00 -15.00 1.000000 "3D/Buildings/FamilyHouse_00_2.mobj" 1.000000 1.000000
+GeoObj 143.211 33.032 0.907 0.00 0.00 -15.00 1.000000 "3D/Buildings/FamilyHouse_00_2.mobj" 1.000000 1.000000
+GeoObj 134.098 -3.008 0.210 0.00 0.00 165.00 1.000000 "3D/Buildings/FamilyHouse_00_2.mobj" 1.000000 1.000000
+GeoObj 168.826 -11.907 0.124 0.00 0.00 165.00 1.000000 "3D/Buildings/FamilyHouse_00_2.mobj" 1.000000 1.000000
+GeoObj 183.542 22.428 0.887 0.00 0.00 -15.00 1.000000 "3D/Buildings/FamilyHouse_00_2.mobj" 1.000000 1.000000
+GeoObj 224.671 13.903 0.531 0.00 0.00 0.00 1.000000 "3D/Buildings/FamilyHouse_01_3.mobj" 1.000000 1.000000
+GeoObj 253.038 -14.224 0.168 0.00 0.00 180.00 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 261.224 14.831 0.821 0.00 0.00 0.00 1.000000 "3D/Buildings/FamilyHouse_00_1.mobj" 1.000000 1.000000
+GeoObj 288.310 -14.377 0.262 0.00 0.00 180.00 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 298.834 13.840 0.880 0.00 0.00 0.00 1.000000 "3D/Buildings/FamilyHouse_01_1.mobj" 1.000000 1.000000
+GeoObj 324.771 -14.494 0.317 0.00 0.00 180.00 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 334.852 14.151 0.932 0.00 0.00 0.00 1.000000 "3D/Buildings/FamilyHouse_01_3.mobj" 1.000000 1.000000
+GeoObj 360.614 -14.161 0.441 0.00 0.00 180.00 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 369.458 15.148 1.106 0.00 0.00 0.00 1.000000 "3D/Buildings/FamilyHouse_00_1.mobj" 1.000000 1.000000
+GeoObj 402.039 -14.140 1.037 0.00 0.00 180.00 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 221.520 -36.005 0.071 0.00 0.00 145.00 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 253.768 -58.543 0.104 0.00 0.00 145.00 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000
+GeoObj 282.755 -78.737 0.314 0.00 0.00 145.00 1.000000 "3D/Buildings/FamilyHouse_01_2.mobj" 1.000000 1.000000

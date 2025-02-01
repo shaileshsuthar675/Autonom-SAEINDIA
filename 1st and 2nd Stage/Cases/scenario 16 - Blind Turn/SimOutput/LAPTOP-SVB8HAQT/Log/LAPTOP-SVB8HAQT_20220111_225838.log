@@ -1,0 +1,24 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-11 22:58:38
+TIME	0.000
+SIM_END			0s	0m
+IDLE	22:58:38
+SIM_START	scenario16sol	2022-01-11 22:58:40
+TIME	0.000
+SIMULATE	scenario16sol
+
+TIME	17.400
+SIM_END		scenario16sol	17.396s	220.993m
+SIM_START	scenario16sol	2022-01-11 22:59:03
+TIME	17.513
+ERROR		Testrun file doesn't exist, file '.tmp_laptop-svb8haqt_NITIN SHARMA.0'
+TIME	0.004
+SIM_ABORT	scenario16sol	0s	220.993m
+SIM_START	scenario16sol	2022-01-11 22:59:04
+TIME	0.000
+SIMULATE	scenario16sol
+
+TIME	19.859
+SIM_END		scenario16sol	19.856s	235.004m
