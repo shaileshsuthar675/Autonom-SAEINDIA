@@ -1,0 +1,155 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-10 16:49:08
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:49:09
+SIM_START	parking2	2022-01-10 16:49:11
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.368
+SIM_END		parking2	46.365s	163.37m
+SIM_START	parking22	2022-01-10 16:50:21
+TIME	0.000
+SIMULATE	parking22
+
+TIME	18.369
+SIM_END		parking22	18.365s	44.7581m
+TIME	98.204
+SIM_START	parking22	2022-01-10 17:04:00
+TIME	0.000
+SIMULATE	parking22
+
+TIME	16.499
+SIM_END		parking22	16.495s	36.9855m
+SIM_START	parking22	2022-01-10 17:04:24
+TIME	0.000
+SIMULATE	parking22
+
+TIME	28.454
+SIM_END		parking22	28.451s	86.7776m
+TIME	30.916
+SIM_START	parking22	2022-01-10 17:05:19
+TIME	0.006
+ERROR		Traffic object 4: Unknown longitudinal motion in manoever 3 (2)
+ERROR		Can't get parameters of traffic object 4 (2)
+SIM_ABORT	parking22	0s	86.7776m
+SIM_START	parking22	2022-01-10 17:05:36
+TIME	0.000
+SIMULATE	parking22
+
+TIME	2.405
+WARNING		Traffic object 4: Manoever 3 does not support driving against path direction
+TIME	28.455
+SIM_END		parking22	28.451s	86.7776m
+SIM_START	parking22	2022-01-10 17:06:20
+TIME	0.000
+SIMULATE	parking22
+
+TIME	2.405
+WARNING		Traffic object 4: Manoever 3 does not support driving against path direction
+TIME	26.934
+SIM_END		parking22	26.929s	80.4344m
+SIM_START	parking22	2022-01-10 17:06:50
+TIME	0.000
+SIMULATE	parking22
+
+TIME	24.861
+SIM_END		parking22	24.857s	71.7992m
+TIME	53.865
+SIM_START	parking22	2022-01-10 17:12:08
+TIME	0.003
+		Traffic.9.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1641814928
+TIME	0.000
+SIMULATE	parking22
+
+TIME	28.454
+SIM_END		parking22	28.451s	86.7776m
+SIM_START	parking22	2022-01-10 17:12:50
+TIME	0.009
+		Traffic.9.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1641814970
+TIME	0.000
+SIMULATE	parking22
+
+TIME	28.455
+SIM_END		parking22	28.451s	86.7776m
+TIME	31.749
+SIM_START	parking22	2022-01-10 17:13:54
+TIME	0.000
+SIMULATE	parking22
+
+TIME	28.454
+SIM_END		parking22	28.451s	86.7776m
+SIM_START	parking22	2022-01-10 17:14:42
+TIME	0.000
+SIMULATE	parking22
+
+TIME	28.523
+SIM_END		parking22	28.519s	87.0781m
+TIME	31.107
+SIM_START	parking22	2022-01-10 17:15:38
+TIME	0.000
+SIMULATE	parking22
+
+TIME	28.425
+SIM_END		parking22	28.422s	86.6607m
+TIME	0.001
+TIME	44.045
+SIM_START	parking22	2022-01-10 17:18:45
+TIME	0.000
+SIMULATE	parking22
+
+TIME	28.426
+SIM_END		parking22	28.422s	86.6607m
+TIME	32.393
+SIM_START	parking22	2022-01-10 17:19:56
+TIME	0.000
+SIMULATE	parking22
+
+TIME	17.141
+SIM_END		parking22	17.138s	86.6809m
+SIM_START	parking2	2022-01-10 17:20:29
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.368
+SIM_END		parking2	46.365s	163.37m
+TIME	54.998
+SIM_START	parking2	2022-01-10 17:22:44
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.369
+SIM_END		parking2	46.365s	163.37m
+SIM_START	parking2	2022-01-10 17:23:37
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.318
+SIM_END		parking2	46.315s	163.313m
+TIME	76.552
+SIM_START	parking2	2022-01-10 17:29:10
+TIME	0.009
+ERROR		Traffic object 11: Wrong Orientation parameter
+ERROR		Can't get parameters of traffic object 11 (2)
+SIM_ABORT	parking2	0s	163.313m
+TIME	3.439
+SIM_START	parking2	2022-01-10 17:29:45
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.331
+SIM_END		parking2	46.328s	152.979m
+SIM_START	parking2	2022-01-10 17:30:37
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.368
+SIM_END		parking2	46.365s	163.37m
+TIME	50.520
+SHUTDOWN	CarMaker quick shutdown initiated
+

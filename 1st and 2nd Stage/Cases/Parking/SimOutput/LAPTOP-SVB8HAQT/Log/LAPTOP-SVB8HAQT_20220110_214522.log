@@ -1,0 +1,173 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-10 21:45:22
+TIME	0.000
+SIM_END			0s	0m
+IDLE	21:45:23
+SIM_START	parking2	2022-01-10 21:45:26
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.368
+SIM_END		parking2	46.365s	163.37m
+SIM_START	parking2	2022-01-10 21:46:23
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.385
+SIM_END		parking2	46.381s	161.949m
+SIM_START	parking2	2022-01-10 21:47:03
+TIME	0.000
+SIMULATE	parking2
+
+TIME	46.363
+SIM_END		parking2	46.36s	162.799m
+TIME	48.862
+SIM_START	parking2	2022-01-10 21:47:58
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.248
+SIM_END		parking2	45.244s	163.992m
+TIME	49.190
+SIM_START	parking2	2022-01-10 21:48:58
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+TIME	55.058
+SIM_START	parking2	2022-01-10 21:51:03
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+SIM_START	parking2	2022-01-10 21:51:51
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.542
+SIM_END		parking2	45.539s	156.097m
+TIME	48.099
+SIM_START	parking2	2022-01-10 21:52:49
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+TIME	49.443
+SIM_START	parking2	2022-01-10 21:53:59
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+TIME	49.833
+SIM_START	parking2	2022-01-10 21:55:31
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+TIME	48.038
+SIM_START	parking2	2022-01-10 21:56:27
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+SIM_START	parking2	2022-01-10 21:57:12
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.510
+SIM_END		parking2	45.506s	163.012m
+TIME	47.569
+SIM_START	parking2	2022-01-10 21:58:09
+TIME	0.009
+		Traffic.11.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1641832089
+TIME	0.000
+SIMULATE	parking2
+
+TIME	24.007
+ERROR		Traffic object 11: Manoever 2 only supported if both, longitudinal and lateral are autonom
+SIM_ABORT	parking2	24.007s	151.475m
+SIM_START	parking2	2022-01-10 21:58:40
+TIME	0.009
+		Traffic.11.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1641832120
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+SIM_START	parking2	2022-01-10 21:59:11
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.510
+SIM_END		parking2	45.506s	163.012m
+TIME	48.031
+SIM_START	parking2	2022-01-10 21:59:48
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.510
+SIM_END		parking2	45.506s	163.012m
+SIM_START	parking2	2022-01-10 22:00:13
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.510
+SIM_END		parking2	45.506s	163.012m
+SIM_START	parking2	2022-01-10 22:00:42
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.510
+SIM_END		parking2	45.506s	163.012m
+TIME	55.127
+SIM_START	parking2	2022-01-10 22:02:31
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.510
+SIM_END		parking2	45.506s	163.012m
+TIME	49.316
+SIM_START	parking2	2022-01-10 22:03:20
+TIME	0.000
+SIMULATE	parking2
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	45.510
+SIM_END		parking2	45.506s	163.012m
+SIM_START	parking2	2022-01-10 22:03:35
+TIME	0.000
+SIMULATE	parking2
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+TIME	50.145
+SIM_START	parking2	2022-01-10 22:05:10
+TIME	0.000
+SIMULATE	parking2
+
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+TIME	56.986
+SIM_START	parking2	2022-01-10 22:07:41
+TIME	0.000
+SIMULATE	parking2
+
+TIME	23.007
+		Traffic object 11: maneuver 'LaneChange' at time=23.006s ignored (rv=5)
+TIME	45.509
+SIM_END		parking2	45.506s	163.012m
+SHUTDOWN	CarMaker quick shutdown initiated
+

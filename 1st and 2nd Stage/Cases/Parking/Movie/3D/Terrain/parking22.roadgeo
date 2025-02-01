@@ -1,0 +1,89 @@
+Tree 76.606 -7.663 0.000 98.4 1.03 0.86 Textures/Trees/Bush_01.png
+Tree 81.597 -10.432 0.000 53.9 1.02 1.03 Textures/Trees/Bush_01.png
+Tree 86.589 -13.156 0.000 136.7 1.22 0.86 Textures/Trees/Bush_01.png
+Tree 91.603 -8.617 0.000 87.1 0.91 1.04 Textures/Trees/Bush_01.png
+Tree 96.610 -6.510 0.000 154.2 1.28 1.44 Textures/Trees/Bush_01.png
+Tree 101.597 -10.524 0.000 98.6 1.16 1.43 Textures/Trees/Bush_01.png
+Tree 106.591 -12.546 0.000 127.3 0.80 1.05 Textures/Trees/Bush_01.png
+Tree 111.603 -8.621 0.000 145.2 1.31 1.04 Textures/Trees/Bush_01.png
+Tree 116.603 -8.627 0.000 61.7 1.19 1.04 Textures/Trees/Bush_01.png
+Tree 121.608 -6.989 0.000 111.8 0.91 0.74 Textures/Trees/Bush_01.png
+Tree 126.608 -7.153 0.000 74.8 1.45 0.89 Textures/Trees/Bush_01.png
+Tree 131.594 -11.623 0.000 18.2 0.71 1.21 Textures/Trees/Bush_01.png
+Tree 136.590 -12.868 0.000 107.6 0.94 1.30 Textures/Trees/Bush_01.png
+Tree 141.594 -11.624 0.000 45.4 1.36 0.72 Textures/Trees/Bush_01.png
+Tree 146.609 -6.727 0.000 75.5 0.89 1.26 Textures/Trees/Bush_01.png
+Tree 151.595 -11.107 0.000 24.3 1.15 0.92 Textures/Trees/Bush_01.png
+Tree 156.603 -8.858 0.000 61.3 0.69 0.81 Textures/Trees/Bush_01.png
+Tree 161.594 -11.527 0.000 99.0 1.33 1.32 Textures/Trees/Bush_01.png
+Tree 166.606 -7.937 0.000 107.9 1.24 1.15 Textures/Trees/Bush_01.png
+Tree 128.187 -27.898 0.000 98.4 1.03 0.86 Textures/Trees/Bush_01.png
+Tree 133.187 -29.275 0.000 53.9 1.02 1.03 Textures/Trees/Bush_01.png
+Tree 138.187 -30.629 0.000 136.7 1.22 0.86 Textures/Trees/Bush_01.png
+Tree 143.187 -28.351 0.000 87.1 0.91 1.04 Textures/Trees/Bush_01.png
+Tree 148.187 -27.290 0.000 154.2 1.28 1.44 Textures/Trees/Bush_01.png
+Tree 153.187 -29.289 0.000 98.6 1.16 1.43 Textures/Trees/Bush_01.png
+Tree 158.187 -30.292 0.000 127.3 0.80 1.05 Textures/Trees/Bush_01.png
+Tree 163.187 -28.321 0.000 145.2 1.31 1.04 Textures/Trees/Bush_01.png
+Tree 128.777 -18.143 0.000 98.4 1.03 0.86 Textures/Trees/Bush_01.png
+Tree 133.777 -16.766 0.000 53.9 1.02 1.03 Textures/Trees/Bush_01.png
+Tree 138.777 -15.412 0.000 136.7 1.22 0.86 Textures/Trees/Bush_01.png
+Tree 143.777 -17.690 0.000 87.1 0.91 1.04 Textures/Trees/Bush_01.png
+Tree 148.777 -18.751 0.000 154.2 1.28 1.44 Textures/Trees/Bush_01.png
+Tree 153.777 -16.752 0.000 98.6 1.16 1.43 Textures/Trees/Bush_01.png
+Tree 158.777 -15.749 0.000 127.3 0.80 1.05 Textures/Trees/Bush_01.png
+Tree 163.777 -17.720 0.000 145.2 1.31 1.04 Textures/Trees/Bush_01.png
+GeoObj 83.715 23.071 0.000 0.00 0.00 269.82 1.000000 "3D/Buildings/FamilyHouse_00_1.mobj" 1.000000 1.000000
+GeoObj 108.714 22.991 0.000 0.00 0.00 269.82 1.000000 "3D/Buildings/FamilyHouse_00_1.mobj" 1.000000 1.000000
+GeoObj 133.714 22.912 0.000 0.00 0.00 269.82 1.000000 "3D/Buildings/FamilyHouse_00_1.mobj" 1.000000 1.000000
+GeoObj 158.714 22.832 0.000 0.00 0.00 269.82 1.000000 "3D/Buildings/FamilyHouse_00_1.mobj" 1.000000 1.000000
+GeoObj 69.217 -12.122 0.000 0.00 0.00 0.00 1.000000 "3D/People/FoodBiker_Female_01.manim" 1.000000 1.000000
+GeoObj 65.110 -12.562 0.000 0.00 0.00 0.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 67.897 -16.229 0.000 0.00 0.00 0.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 66.283 -17.403 0.000 0.00 0.00 -0.00 1.000000 "3D/StreetFurniture/AdvertisingColumn_03_1.mobj" 1.000000 1.000000
+GeoObj 24.340 -18.203 0.000 0.00 0.00 -0.00 1.000000 "3D/Buildings/Office_10_7St_3.mobj" 1.000000 1.000000
+GeoObj 97.380 -28.991 0.000 0.00 0.00 90.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 98.700 -20.043 0.000 0.00 0.00 90.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 99.874 -30.604 0.000 0.00 0.00 90.00 1.000000 "3D/StreetFurniture/AdvertisingColumn_03_1.mobj" 1.000000 1.000000
+GeoObj 114.542 -18.723 0.000 0.00 0.00 90.00 1.000000 "3D/People/Cyclist_Male_02_E-Bike.manim" 1.000000 1.000000
+GeoObj 120.850 -29.284 0.000 0.00 0.00 90.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 121.583 -17.256 0.000 0.00 0.00 90.00 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 123.050 -29.577 0.000 0.00 0.00 90.00 1.000000 "3D/People/FoodBiker_Female_01.manim" 1.000000 1.000000
+GeoObj 129.357 -18.576 0.000 0.00 0.00 90.00 1.000000 "3D/StreetFurniture/AdvertisingColumn_03_1.mobj" 1.000000 1.000000
+GeoObj 164.708 -19.603 0.000 0.00 0.00 90.00 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 66.870 -34.858 0.000 0.00 0.00 0.00 1.000000 "3D/People/FoodBiker_Female_01.manim" 1.000000 1.000000
+GeoObj 39.674 -41.506 0.000 0.00 0.00 -0.00 1.000000 "3D/Buildings/Shop_CoffeeShop_02.mobj" 2.000000 1.000000
+GeoObj 77.087 -36.696 0.000 0.00 0.00 0.00 1.000000 "3D/People/Worker_Male_03_Animated.manim" 1.000000 1.000000
+GeoObj 89.989 -35.810 0.000 0.00 0.00 45.00 1.000000 "3D/People/Worker_Male_01_Animated.manim" 1.000000 1.000000
+GeoObj 96.566 -36.443 0.000 0.00 0.00 270.00 1.000000 "3D/People/Worker_Male_01_Animated.manim" 1.000000 1.000000
+GeoObj 98.464 -46.815 0.000 0.00 0.00 0.00 1.000000 "3D/People/Worker_Male_04_Animated.manim" 1.000000 1.000000
+GeoObj 100.361 -36.063 0.000 0.00 0.00 90.00 1.000000 "3D/People/Worker_Male_03_Animated.manim" 1.000000 1.000000
+GeoObj 103.397 -36.696 0.000 0.00 0.00 270.00 1.000000 "3D/People/Worker_Male_01_Animated.manim" 1.000000 1.000000
+GeoObj 117.817 -36.190 0.000 0.00 0.00 240.00 1.000000 "3D/People/Worker_Male_01_Animated.manim" 1.000000 1.000000
+GeoObj 117.817 -47.827 0.000 0.00 0.00 25.00 1.000000 "3D/People/Worker_Male_04_Animated.manim" 1.000000 1.000000
+GeoObj 126.039 -48.080 0.000 0.00 0.00 0.00 1.000000 "3D/People/Worker_Male_03_Animated.manim" 1.000000 1.000000
+GeoObj 137.423 -36.696 0.000 0.00 0.00 55.00 1.000000 "3D/People/Worker_Male_03_Animated.manim" 1.000000 1.000000
+GeoObj 144.127 -47.321 0.000 0.00 0.00 0.00 1.000000 "3D/People/Worker_Male_03_Animated.manim" 1.000000 1.000000
+GeoObj 149.060 -36.316 0.000 0.00 0.00 240.00 1.000000 "3D/People/Worker_Male_01_Animated.manim" 1.000000 1.000000
+GeoObj 152.222 -37.455 0.000 0.00 0.00 45.00 1.000000 "3D/People/Worker_Male_03_Animated.manim" 1.000000 1.000000
+GeoObj 204.140 -37.416 0.000 0.00 0.00 180.00 1.000000 "3D/Buildings/Highrise_CHN_02_21St_1.mobj" 1.000000 1.000000
+GeoObj 167.935 -35.885 0.000 0.00 0.00 180.00 1.000000 "3D/StreetFurniture/AdvertisingColumn_03_1.mobj" 1.000000 1.000000
+GeoObj 238.418 -35.445 0.000 0.00 0.00 180.00 1.000000 "3D/Buildings/Highrise_CHN_02_21St_1.mobj" 1.000000 1.000000
+GeoObj 165.735 -33.685 0.000 0.00 0.00 180.00 1.000000 "3D/People/FoodBiker_Female_01.manim" 1.000000 1.000000
+GeoObj 179.083 -29.431 0.000 0.00 0.00 180.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 168.669 -16.817 0.000 0.00 0.00 174.19 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 170.282 -13.295 0.000 0.00 0.00 163.92 1.000000 "3D/StreetFurniture/AdvertisingColumn_03_1.mobj" 1.000000 1.000000
+GeoObj 171.016 -9.774 0.000 0.00 0.00 154.16 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 171.749 -58.621 0.000 0.00 0.00 114.89 1.000000 "3D/People/Pedestrian_Female_Casual_01.manim" 1.000000 1.000000
+GeoObj 179.817 -46.769 0.000 0.00 0.00 180.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 69.510 -48.793 0.000 0.00 0.00 -0.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 74.908 -83.238 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Mall_02_2.mobj" 1.000000 1.000000
+GeoObj 92.908 -83.238 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Mall_02_2.mobj" 1.000000 1.000000
+GeoObj 110.908 -83.238 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Mall_02_2.mobj" 1.000000 1.000000
+GeoObj 128.908 -83.238 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Mall_02_2.mobj" 1.000000 1.000000
+GeoObj 146.908 -83.238 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Mall_02_2.mobj" 1.000000 1.000000
+GeoObj 85.792 -60.675 0.000 0.00 0.00 90.00 1.000000 "3D/People/Pedestrian_Male_Casual_04.manim" 1.000000 1.000000
+GeoObj 198.152 6.360 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Highrise_CHN_02_21St_1.mobj" 1.000000 1.000000
+GeoObj 227.489 -32.511 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Highrise_CHN_02_21St_1.mobj" 1.000000 1.000000
+GeoObj 241.718 5.774 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Highrise_CHN_02_21St_1.mobj" 1.000000 1.000000
+GeoObj 262.191 -33.098 0.000 0.00 0.00 90.00 1.000000 "3D/Buildings/Highrise_CHN_02_21St_1.mobj" 1.000000 1.000000
