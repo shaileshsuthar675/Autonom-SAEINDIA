@@ -1,0 +1,159 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-08 21:49:56
+TIME	0.000
+SIM_END			0s	0m
+IDLE	21:49:57
+SIM_START	scenario12	2022-01-08 21:49:59
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	14.473
+SIM_END		scenario12	14.469s	239.442m
+TIME	22.525
+SIM_START	scenario12	2022-01-08 21:51:23
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	14.326
+SIM_END		scenario12	14.322s	237.054m
+SIM_START	scenario12	2022-01-08 21:51:42
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	14.651
+SIM_END		scenario12	14.648s	242.353m
+SIM_START	scenario12	2022-01-08 21:52:05
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	14.652
+SIM_END		scenario12	14.648s	242.353m
+TIME	18.387
+SIM_START	scenario12	2022-01-08 21:52:47
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	14.651
+SIM_END		scenario12	14.648s	242.353m
+TIME	18.349
+SIM_START	scenario12	2022-01-08 21:53:29
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	20.635
+SIM_END		scenario12	20.632s	371.802m
+SIM_START	scenario12	2022-01-08 21:53:54
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	20.635
+SIM_END		scenario12	20.631s	371.796m
+SIM_START	scenario12	2022-01-08 21:54:14
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	20.644
+SIM_END		scenario12	20.641s	371.926m
+TIME	22.746
+SIM_START	scenario12	2022-01-08 21:54:49
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	17.806
+ERROR		Vehicle leaves road at about x=283.739, y=19.9937 TireNo=0
+SIM_ABORT	scenario12	17.806s	281.665m
+SIM_START	scenario12	2022-01-08 21:55:23
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	20.839
+SIM_END		scenario12	20.836s	371.974m
+SIM_START	scenario12	2022-01-08 21:55:51
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	17.332
+SIM_END		scenario12	17.328s	288.526m
+SIM_START	scenario12	2022-01-08 21:56:12
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	43.653
+SIM_END		scenario12	43.65s	307.75m
+SIM_START	scenario12	2022-01-08 21:57:09
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	28.878
+SIM_END		scenario12	28.874s	273.194m
+SIM_START	scenario12	2022-01-08 21:57:33
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	26.318
+SIM_END		scenario12	26.314s	371.685m
+TIME	32.476
+SIM_START	scenario12sol	2022-01-08 21:58:55
+TIME	0.000
+SIMULATE	scenario12sol
+
+TIME	23.946
+SIM_END		scenario12sol	23.942s	371.69m
+SIM_START	scenario12sol	2022-01-08 21:59:26
+TIME	0.000
+SIMULATE	scenario12sol
+
+TIME	17.863
+		LaneChange in maneuver 4 ignored (rv=5)
+TIME	23.946
+SIM_END		scenario12sol	23.942s	371.69m
+TIME	0.001
+SIM_START	scenario12sol	2022-01-08 21:59:53
+TIME	0.000
+SIMULATE	scenario12sol
+
+TIME	23.004
+SIM_END		scenario12sol	23.001s	372.069m
+SIM_START	scenario12sol	2022-01-08 22:00:19
+TIME	0.000
+SIMULATE	scenario12sol
+
+TIME	24.599
+SIM_END		scenario12sol	24.596s	372.08m
+TIME	29.507
+SIM_START	scenario12sol	2022-01-08 22:01:21
+TIME	0.000
+SIMULATE	scenario12sol
+
+TIME	24.599
+SIM_END		scenario12sol	24.596s	372.08m
+TIME	27.557
+SIM_START	Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack	2022-01-08 22:02:01
+TIME	0.000
+SIMULATE	Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack
+
+TIME	175.330
+		Lap   1: t= 175.329s	Dist=6166.9564m	sRoad=0.9551m
+TIME	198.663
+SIM_END		Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack	198.659s	7484.05m
+SIM_START	Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack	2022-01-08 22:05:22
+TIME	0.000
+SIMULATE	Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack
+
+TIME	105.747
+SIM_END		Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack	105.743s	3816.66m
+SIM_START	Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack	2022-01-08 22:07:11
+TIME	0.000
+SIMULATE	Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack
+
+TIME	175.330
+		Lap   1: t= 175.329s	Dist=6166.9564m	sRoad=0.9551m
+TIME	345.771
+		Lap   2: t= 170.441s	Dist=6171.1177m	sRoad=0.9558m
+TIME	398.963
+SIM_END		Examples/Powertrain/DrivingScenarios/Nardo_HandlingTrack	398.954s	14628.7m
+TIME	404.157
+SHUTDOWN	CarMaker quick shutdown initiated
+

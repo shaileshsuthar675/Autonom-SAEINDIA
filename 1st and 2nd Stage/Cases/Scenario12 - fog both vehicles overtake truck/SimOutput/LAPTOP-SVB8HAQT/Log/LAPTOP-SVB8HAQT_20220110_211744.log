@@ -1,0 +1,49 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-10 21:17:44
+TIME	0.000
+SIM_END			0s	0m
+IDLE	21:17:45
+SIM_START	scenario12sol	2022-01-10 21:17:47
+TIME	0.089
+ERROR		ManeuverCmds: syntax error
+	Eval Qu::BeamL.rz (<<)  = 0
+SIM_ABORT	scenario12sol	0s	0m
+TIME	3.254
+SIM_START	scenario12sol	2022-01-10 21:18:19
+TIME	0.003
+ERROR		Man 0: Incomplete DVA command 'DVAwr'
+SIM_ABORT	scenario12sol	0s	0m
+SIM_START	scenario12sol	2022-01-10 21:18:33
+TIME	0.003
+ERROR		Man 0: Incomplete DVA command 'DVAwr'
+SIM_ABORT	scenario12sol	0s	0m
+TIME	4.276
+SIM_START	scenario12sol	2022-01-10 21:19:16
+TIME	0.005
+ERROR		Man 1: Incomplete DVA command 'DVAwr'
+SIM_ABORT	scenario12sol	0s	0m
+TIME	6.368
+SIM_START	scenario12sol	2022-01-10 21:20:19
+TIME	0.000
+SIMULATE	scenario12sol
+
+TIME	24.600
+SIM_END		scenario12sol	24.596s	372.08m
+SIM_START	scenario12sol	2022-01-10 21:20:54
+TIME	0.000
+SIMULATE	scenario12sol
+
+TIME	24.600
+SIM_END		scenario12sol	24.596s	372.08m
+TIME	42.346
+SIM_START	Examples/BasicFunctions/Road/Networks/ParkingGarage	2022-01-10 21:24:17
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Road/Networks/ParkingGarage
+
+TIME	50.708
+SIM_END		Examples/BasicFunctions/Road/Networks/ParkingGarage	50.704s	199.498m
+TIME	71.183
+SHUTDOWN	CarMaker quick shutdown initiated
+

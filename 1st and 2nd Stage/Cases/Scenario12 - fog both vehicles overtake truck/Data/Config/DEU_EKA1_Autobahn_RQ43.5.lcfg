@@ -1,0 +1,64 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = Scenario-LaneConfig 2.0
+FileCreator = CarMaker 10.2
+
+Name = DEU_EKA1_Autobahn_RQ43.5
+Prio = 1
+
+LaneL = roadside 2.5
+LaneL.0 = vegetation 2
+LaneL.1 = border 0.75
+LaneL.2 = road 3.5
+LaneL.3 = road 3.5
+LaneL.4 = road 3.75
+LaneL.5 = road 3.75
+LaneL.6 = border 0.5
+LaneL.7 = emergency 2.5
+LaneR = roadside 2.5
+LaneR.0 = vegetation 2
+LaneR.1 = border 0.75
+LaneR.2 = road 3.5
+LaneR.3 = road 3.5
+LaneR.4 = road 3.75
+LaneR.5 = road 3.75
+LaneR.6 = border 0.5
+LaneR.7 = emergency 2.5
+
+RoadMarkingL.0 = none 6 12 0.3 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.1 = line 6 12 0.3 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.2 = dash 6 12 0.15 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.3 = dash 6 12 0.15 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.4 = dash 6 12 0.15 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.5 = line 6 12 0.3 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.6 = none 6 12 0.3 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.7 = none 6 12 0.15 {1.0 1.0 1.0} 0.0 left
+RoadMarkingR.0 = none 6 12 0.3 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.1 = line 6 12 0.3 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.2 = dash 6 12 0.15 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.3 = dash 6 12 0.15 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.4 = dash 6 12 0.15 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.5 = line 6 12 0.3 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.6 = none 6 12 0.3 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.7 = none 6 12 0.3 {1.0 1.0 1.0} 0.0 right
+RoadMarkingC = none 6 12 0.3 {1.0 1.0 1.0} 0.0 center
+
+TrafficBarrierL.0 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.1 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.2 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.3 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.4 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.5 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.6 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.7 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierR.0 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.1 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.2 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.3 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.4 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.5 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.6 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.7 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierC = none sigma 0.155 0.75 3.0 0.0 center
+
+GuidePostL = none 50.0 0.0 left
+GuidePostR = none 50.0 0.0 right

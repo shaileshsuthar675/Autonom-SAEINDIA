@@ -1,0 +1,17 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #1010 (win64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:17:58
+ 
+FIRST_INIT	(internal default used)	2022-01-10 22:47:33
+TIME	0.000
+SIM_END			0s	0m
+IDLE	22:47:34
+SIM_START	scenario12	2022-01-10 22:47:36
+TIME	0.000
+SIMULATE	scenario12
+
+TIME	12.709
+		Traffic object 3: maneuver 'LaneChange' at time=12.708s ignored (rv=5)
+SIM_END		scenario12	14.648s	242.353m
+TIME	52.170
+SHUTDOWN	CarMaker quick shutdown initiated
+
